@@ -1,0 +1,2 @@
+Cs_offered,C_chosen_by_fold,mean_auc_partial_original,mean_auc_partial_wider_range,mean_auc_LR_pooled,mean_auc_XGB_pooled,diff_vs_XGB_pooled,countries_better_than_XGB_pooled,pooled_overall_auc_wider_range
+0.0001 0.0003 0.001 0.003 0.01 0.03 0.1 0.3,0.003 0.003 0.003 0.003 0.003,0.7939,0.7939,0.7935,0.7954,-0.0015,17,0.8523
