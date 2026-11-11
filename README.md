@@ -2,7 +2,7 @@
 
 **Pooled versus expert models for predicting digital financial inclusion in Sub-Saharan Africa**
 
-Winnie MejaSitah Lang'o · Independent researcher, Nairobi, Kenya
+Winnie Sitah Lang'o · Independent researcher, Nairobi, Kenya
 
 This repository contains the code and aggregated results for the paper. Using Global Findex 2025 microdata for 33,826 adults in 34 Sub-Saharan African economies, it compares five strategies for predicting ownership of a digitally enabled account: pooled logistic regression and XGBoost with country indicators, penalised partial pooling, and country-specific (expert) models. A shared model performs as well as any alternative, and country-specific XGBoost is worse in 33 of 34 economies.
 
@@ -56,7 +56,7 @@ All files are aggregated (country level or above).
 
 ## Citation
 
-Lang'o, W. M. (2026). *When Do Country-Specific Models Help? Pooled Versus Expert Models for Predicting Digital Financial Inclusion in Sub-Saharan Africa*. Working paper.
+Lang'o, W. S. (2026). *When Do Country-Specific Models Help? Pooled Versus Expert Models for Predicting Digital Financial Inclusion in Sub-Saharan Africa*. Working paper.
 
 Data: World Bank (2025). *Global Financial Inclusion (Global Findex) Database 2025*. https://microdata.worldbank.org/catalog/7860
 
