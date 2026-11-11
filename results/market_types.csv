@@ -1,0 +1,5 @@
+market_type,account_rate,mobile_money_share,smartphone_rate,phone_rate,internet_rate,countries
+0,0.44,0.87,0.23,0.68,0.29,"Benin, Congo, Dem. Rep., Congo, Rep., Guinea, Liberia, Malawi, Mozambique, Sierra Leone, Tanzania"
+1,0.61,0.85,0.46,0.85,0.48,"Botswana, Burkina Faso, Cameroon, Cote d'Ivoire, Eswatini, Gabon, Ghana, Kenya, Mali, Namibia, Nigeria, Senegal, Togo, Uganda, Zambia, Zimbabwe"
+2,0.38,0.26,0.61,0.83,0.63,"Comoros, Gambia, The, Mauritania, Mauritius, South Africa"
+3,0.15,0.5,0.13,0.53,0.13,"Chad, Ethiopia, Madagascar, Niger"

@@ -1,0 +1,5 @@
+strategy,vs,mean_auc_difference,ci95_low,ci95_high,countries_better,countries_worse,wilcoxon_p
+LR_pooled,XGB_pooled,-0.0019,-0.005,0.0012,16,18,0.3787
+LR_partial,XGB_pooled,-0.0015,-0.0044,0.0013,17,17,0.4167
+LR_expert,XGB_pooled,-0.0047,-0.0075,-0.0019,11,23,0.0038
+XGB_expert,XGB_pooled,-0.0155,-0.0182,-0.0128,1,33,0.0

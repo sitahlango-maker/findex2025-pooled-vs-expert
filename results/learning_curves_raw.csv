@@ -1,0 +1,1701 @@
+country,fold,n_country,size_label,strategy,auc
+BEN,0,50,50,Expert (own country only),0.6786
+BEN,0,50,50,Shared model,0.7661
+BEN,0,100,100,Expert (own country only),0.761
+BEN,0,100,100,Shared model,0.7666
+BEN,0,200,200,Expert (own country only),0.7374
+BEN,0,200,200,Shared model,0.7659
+BEN,0,400,400,Expert (own country only),0.752
+BEN,0,400,400,Shared model,0.7662
+BEN,0,800,all,Expert (own country only),0.7629
+BEN,0,800,all,Shared model,0.7661
+BEN,1,50,50,Expert (own country only),0.6961
+BEN,1,50,50,Shared model,0.7289
+BEN,1,100,100,Expert (own country only),0.7273
+BEN,1,100,100,Shared model,0.7288
+BEN,1,200,200,Expert (own country only),0.7391
+BEN,1,200,200,Shared model,0.729
+BEN,1,400,400,Expert (own country only),0.7416
+BEN,1,400,400,Shared model,0.729
+BEN,1,800,all,Expert (own country only),0.7281
+BEN,1,800,all,Shared model,0.7288
+BEN,2,50,50,Expert (own country only),0.6636
+BEN,2,50,50,Shared model,0.7701
+BEN,2,100,100,Expert (own country only),0.6736
+BEN,2,100,100,Shared model,0.7701
+BEN,2,200,200,Expert (own country only),0.7098
+BEN,2,200,200,Shared model,0.7697
+BEN,2,400,400,Expert (own country only),0.756
+BEN,2,400,400,Shared model,0.7701
+BEN,2,800,all,Expert (own country only),0.7455
+BEN,2,800,all,Shared model,0.7696
+BEN,3,50,50,Expert (own country only),0.5755
+BEN,3,50,50,Shared model,0.7201
+BEN,3,100,100,Expert (own country only),0.7345
+BEN,3,100,100,Shared model,0.7199
+BEN,3,200,200,Expert (own country only),0.7273
+BEN,3,200,200,Shared model,0.7198
+BEN,3,400,400,Expert (own country only),0.7216
+BEN,3,400,400,Shared model,0.7203
+BEN,3,800,all,Expert (own country only),0.7232
+BEN,3,800,all,Shared model,0.7194
+BEN,4,50,50,Expert (own country only),0.6293
+BEN,4,50,50,Shared model,0.7375
+BEN,4,100,100,Expert (own country only),0.6631
+BEN,4,100,100,Shared model,0.7375
+BEN,4,200,200,Expert (own country only),0.7139
+BEN,4,200,200,Shared model,0.7371
+BEN,4,400,400,Expert (own country only),0.7266
+BEN,4,400,400,Shared model,0.7372
+BEN,4,800,all,Expert (own country only),0.7356
+BEN,4,800,all,Shared model,0.7373
+BFA,0,50,50,Expert (own country only),0.7195
+BFA,0,50,50,Shared model,0.7924
+BFA,0,100,100,Expert (own country only),0.7797
+BFA,0,100,100,Shared model,0.7917
+BFA,0,200,200,Expert (own country only),0.7745
+BFA,0,200,200,Shared model,0.7919
+BFA,0,400,400,Expert (own country only),0.7748
+BFA,0,400,400,Shared model,0.7923
+BFA,0,797,all,Expert (own country only),0.7896
+BFA,0,797,all,Shared model,0.7919
+BFA,1,50,50,Expert (own country only),0.6967
+BFA,1,50,50,Shared model,0.7699
+BFA,1,100,100,Expert (own country only),0.7516
+BFA,1,100,100,Shared model,0.7699
+BFA,1,200,200,Expert (own country only),0.7366
+BFA,1,200,200,Shared model,0.77
+BFA,1,400,400,Expert (own country only),0.781
+BFA,1,400,400,Shared model,0.7701
+BFA,1,797,all,Expert (own country only),0.7761
+BFA,1,797,all,Shared model,0.7701
+BFA,2,50,50,Expert (own country only),0.7574
+BFA,2,50,50,Shared model,0.7771
+BFA,2,100,100,Expert (own country only),0.7451
+BFA,2,100,100,Shared model,0.777
+BFA,2,200,200,Expert (own country only),0.7715
+BFA,2,200,200,Shared model,0.7772
+BFA,2,400,400,Expert (own country only),0.7766
+BFA,2,400,400,Shared model,0.7771
+BFA,2,798,all,Expert (own country only),0.7752
+BFA,2,798,all,Shared model,0.7773
+BFA,3,50,50,Expert (own country only),0.7438
+BFA,3,50,50,Shared model,0.765
+BFA,3,100,100,Expert (own country only),0.7556
+BFA,3,100,100,Shared model,0.7648
+BFA,3,200,200,Expert (own country only),0.76
+BFA,3,200,200,Shared model,0.7647
+BFA,3,400,400,Expert (own country only),0.7556
+BFA,3,400,400,Shared model,0.7649
+BFA,3,798,all,Expert (own country only),0.7582
+BFA,3,798,all,Shared model,0.765
+BFA,4,50,50,Expert (own country only),0.76
+BFA,4,50,50,Shared model,0.7853
+BFA,4,100,100,Expert (own country only),0.7547
+BFA,4,100,100,Shared model,0.7844
+BFA,4,200,200,Expert (own country only),0.773
+BFA,4,200,200,Shared model,0.7842
+BFA,4,400,400,Expert (own country only),0.8002
+BFA,4,400,400,Shared model,0.7853
+BFA,4,798,all,Expert (own country only),0.7993
+BFA,4,798,all,Shared model,0.7852
+BWA,0,50,50,Expert (own country only),0.6019
+BWA,0,50,50,Shared model,0.8383
+BWA,0,100,100,Expert (own country only),0.8214
+BWA,0,100,100,Shared model,0.8384
+BWA,0,200,200,Expert (own country only),0.8361
+BWA,0,200,200,Shared model,0.8386
+BWA,0,400,400,Expert (own country only),0.8366
+BWA,0,400,400,Shared model,0.839
+BWA,0,796,all,Expert (own country only),0.8077
+BWA,0,796,all,Shared model,0.8376
+BWA,1,50,50,Expert (own country only),0.673
+BWA,1,50,50,Shared model,0.8078
+BWA,1,100,100,Expert (own country only),0.7936
+BWA,1,100,100,Shared model,0.8078
+BWA,1,200,200,Expert (own country only),0.7975
+BWA,1,200,200,Shared model,0.8078
+BWA,1,400,400,Expert (own country only),0.8134
+BWA,1,400,400,Shared model,0.8076
+BWA,1,796,all,Expert (own country only),0.8193
+BWA,1,796,all,Shared model,0.8078
+BWA,2,50,50,Expert (own country only),0.7715
+BWA,2,50,50,Shared model,0.7715
+BWA,2,100,100,Expert (own country only),0.7353
+BWA,2,100,100,Shared model,0.7718
+BWA,2,200,200,Expert (own country only),0.755
+BWA,2,200,200,Shared model,0.7716
+BWA,2,400,400,Expert (own country only),0.7714
+BWA,2,400,400,Shared model,0.7715
+BWA,2,796,all,Expert (own country only),0.7737
+BWA,2,796,all,Shared model,0.7719
+BWA,3,50,50,Expert (own country only),0.7163
+BWA,3,50,50,Shared model,0.7749
+BWA,3,100,100,Expert (own country only),0.727
+BWA,3,100,100,Shared model,0.7753
+BWA,3,200,200,Expert (own country only),0.7596
+BWA,3,200,200,Shared model,0.7752
+BWA,3,400,400,Expert (own country only),0.7426
+BWA,3,400,400,Shared model,0.7752
+BWA,3,796,all,Expert (own country only),0.758
+BWA,3,796,all,Shared model,0.7749
+BWA,4,50,50,Expert (own country only),0.7546
+BWA,4,50,50,Shared model,0.7906
+BWA,4,100,100,Expert (own country only),0.7531
+BWA,4,100,100,Shared model,0.7907
+BWA,4,200,200,Expert (own country only),0.7879
+BWA,4,200,200,Shared model,0.7907
+BWA,4,400,400,Expert (own country only),0.7928
+BWA,4,400,400,Shared model,0.7906
+BWA,4,796,all,Expert (own country only),0.7972
+BWA,4,796,all,Shared model,0.7905
+CIV,0,50,50,Expert (own country only),0.7493
+CIV,0,50,50,Shared model,0.7869
+CIV,0,100,100,Expert (own country only),0.7808
+CIV,0,100,100,Shared model,0.7869
+CIV,0,200,200,Expert (own country only),0.7729
+CIV,0,200,200,Shared model,0.7869
+CIV,0,400,400,Expert (own country only),0.7933
+CIV,0,400,400,Shared model,0.7872
+CIV,0,796,all,Expert (own country only),0.7892
+CIV,0,796,all,Shared model,0.7871
+CIV,1,50,50,Expert (own country only),0.7245
+CIV,1,50,50,Shared model,0.7503
+CIV,1,100,100,Expert (own country only),0.6965
+CIV,1,100,100,Shared model,0.7509
+CIV,1,200,200,Expert (own country only),0.7096
+CIV,1,200,200,Shared model,0.751
+CIV,1,400,400,Expert (own country only),0.7242
+CIV,1,400,400,Shared model,0.7501
+CIV,1,797,all,Expert (own country only),0.7421
+CIV,1,797,all,Shared model,0.7505
+CIV,2,50,50,Expert (own country only),0.7145
+CIV,2,50,50,Shared model,0.7836
+CIV,2,100,100,Expert (own country only),0.7834
+CIV,2,100,100,Shared model,0.7836
+CIV,2,200,200,Expert (own country only),0.7447
+CIV,2,200,200,Shared model,0.7836
+CIV,2,400,400,Expert (own country only),0.7793
+CIV,2,400,400,Shared model,0.7837
+CIV,2,797,all,Expert (own country only),0.7744
+CIV,2,797,all,Shared model,0.7832
+CIV,3,50,50,Expert (own country only),0.7183
+CIV,3,50,50,Shared model,0.799
+CIV,3,100,100,Expert (own country only),0.7067
+CIV,3,100,100,Shared model,0.799
+CIV,3,200,200,Expert (own country only),0.7936
+CIV,3,200,200,Shared model,0.7987
+CIV,3,400,400,Expert (own country only),0.7931
+CIV,3,400,400,Shared model,0.7984
+CIV,3,797,all,Expert (own country only),0.7994
+CIV,3,797,all,Shared model,0.7988
+CIV,4,50,50,Expert (own country only),0.704
+CIV,4,50,50,Shared model,0.8337
+CIV,4,100,100,Expert (own country only),0.8172
+CIV,4,100,100,Shared model,0.8338
+CIV,4,200,200,Expert (own country only),0.819
+CIV,4,200,200,Shared model,0.8338
+CIV,4,400,400,Expert (own country only),0.8279
+CIV,4,400,400,Shared model,0.8338
+CIV,4,797,all,Expert (own country only),0.8343
+CIV,4,797,all,Shared model,0.8337
+CMR,0,50,50,Expert (own country only),0.8414
+CMR,0,50,50,Shared model,0.8342
+CMR,0,100,100,Expert (own country only),0.8248
+CMR,0,100,100,Shared model,0.8343
+CMR,0,200,200,Expert (own country only),0.8405
+CMR,0,200,200,Shared model,0.8342
+CMR,0,400,400,Expert (own country only),0.8525
+CMR,0,400,400,Shared model,0.8344
+CMR,0,794,all,Expert (own country only),0.8511
+CMR,0,794,all,Shared model,0.8348
+CMR,1,50,50,Expert (own country only),0.8632
+CMR,1,50,50,Shared model,0.8678
+CMR,1,100,100,Expert (own country only),0.8459
+CMR,1,100,100,Shared model,0.868
+CMR,1,200,200,Expert (own country only),0.8396
+CMR,1,200,200,Shared model,0.8679
+CMR,1,400,400,Expert (own country only),0.8667
+CMR,1,400,400,Shared model,0.8682
+CMR,1,794,all,Expert (own country only),0.8711
+CMR,1,794,all,Shared model,0.8682
+CMR,2,50,50,Expert (own country only),0.8284
+CMR,2,50,50,Shared model,0.8644
+CMR,2,100,100,Expert (own country only),0.8535
+CMR,2,100,100,Shared model,0.8644
+CMR,2,200,200,Expert (own country only),0.8707
+CMR,2,200,200,Shared model,0.8644
+CMR,2,400,400,Expert (own country only),0.8688
+CMR,2,400,400,Shared model,0.8645
+CMR,2,794,all,Expert (own country only),0.8721
+CMR,2,794,all,Shared model,0.8649
+CMR,3,50,50,Expert (own country only),0.7896
+CMR,3,50,50,Shared model,0.8077
+CMR,3,100,100,Expert (own country only),0.7721
+CMR,3,100,100,Shared model,0.8081
+CMR,3,200,200,Expert (own country only),0.788
+CMR,3,200,200,Shared model,0.8082
+CMR,3,400,400,Expert (own country only),0.7981
+CMR,3,400,400,Shared model,0.8086
+CMR,3,795,all,Expert (own country only),0.7996
+CMR,3,795,all,Shared model,0.8088
+CMR,4,50,50,Expert (own country only),0.8269
+CMR,4,50,50,Shared model,0.8626
+CMR,4,100,100,Expert (own country only),0.8244
+CMR,4,100,100,Shared model,0.8627
+CMR,4,200,200,Expert (own country only),0.8341
+CMR,4,200,200,Shared model,0.8624
+CMR,4,400,400,Expert (own country only),0.8454
+CMR,4,400,400,Shared model,0.8628
+CMR,4,795,all,Expert (own country only),0.845
+CMR,4,795,all,Shared model,0.862
+COD,0,50,50,Expert (own country only),0.826
+COD,0,50,50,Shared model,0.8453
+COD,0,100,100,Expert (own country only),0.8229
+COD,0,100,100,Shared model,0.8451
+COD,0,200,200,Expert (own country only),0.8452
+COD,0,200,200,Shared model,0.8451
+COD,0,400,400,Expert (own country only),0.8585
+COD,0,400,400,Shared model,0.8453
+COD,0,799,all,Expert (own country only),0.8534
+COD,0,799,all,Shared model,0.8452
+COD,1,50,50,Expert (own country only),0.8354
+COD,1,50,50,Shared model,0.8615
+COD,1,100,100,Expert (own country only),0.8775
+COD,1,100,100,Shared model,0.8618
+COD,1,200,200,Expert (own country only),0.8461
+COD,1,200,200,Shared model,0.8621
+COD,1,400,400,Expert (own country only),0.8551
+COD,1,400,400,Shared model,0.8619
+COD,1,799,all,Expert (own country only),0.858
+COD,1,799,all,Shared model,0.8619
+COD,2,50,50,Expert (own country only),0.8575
+COD,2,50,50,Shared model,0.8536
+COD,2,100,100,Expert (own country only),0.83
+COD,2,100,100,Shared model,0.8535
+COD,2,200,200,Expert (own country only),0.8518
+COD,2,200,200,Shared model,0.8535
+COD,2,400,400,Expert (own country only),0.8529
+COD,2,400,400,Shared model,0.8537
+COD,2,799,all,Expert (own country only),0.8516
+COD,2,799,all,Shared model,0.8537
+COD,3,50,50,Expert (own country only),0.7813
+COD,3,50,50,Shared model,0.8214
+COD,3,100,100,Expert (own country only),0.8093
+COD,3,100,100,Shared model,0.8214
+COD,3,200,200,Expert (own country only),0.8121
+COD,3,200,200,Shared model,0.8214
+COD,3,400,400,Expert (own country only),0.8109
+COD,3,400,400,Shared model,0.8214
+COD,3,799,all,Expert (own country only),0.817
+COD,3,799,all,Shared model,0.8212
+COD,4,50,50,Expert (own country only),0.8171
+COD,4,50,50,Shared model,0.8246
+COD,4,100,100,Expert (own country only),0.809
+COD,4,100,100,Shared model,0.8248
+COD,4,200,200,Expert (own country only),0.8025
+COD,4,200,200,Shared model,0.8243
+COD,4,400,400,Expert (own country only),0.818
+COD,4,400,400,Shared model,0.8246
+COD,4,800,all,Expert (own country only),0.8227
+COD,4,800,all,Shared model,0.8244
+COG,0,50,50,Expert (own country only),0.7664
+COG,0,50,50,Shared model,0.8224
+COG,0,100,100,Expert (own country only),0.8186
+COG,0,100,100,Shared model,0.8223
+COG,0,200,200,Expert (own country only),0.8127
+COG,0,200,200,Shared model,0.8225
+COG,0,400,400,Expert (own country only),0.8078
+COG,0,400,400,Shared model,0.8225
+COG,0,796,all,Expert (own country only),0.8166
+COG,0,796,all,Shared model,0.8223
+COG,1,50,50,Expert (own country only),0.6482
+COG,1,50,50,Shared model,0.7183
+COG,1,100,100,Expert (own country only),0.7098
+COG,1,100,100,Shared model,0.7183
+COG,1,200,200,Expert (own country only),0.6975
+COG,1,200,200,Shared model,0.7187
+COG,1,400,400,Expert (own country only),0.7177
+COG,1,400,400,Shared model,0.7187
+COG,1,796,all,Expert (own country only),0.7176
+COG,1,796,all,Shared model,0.7188
+COG,2,50,50,Expert (own country only),0.7546
+COG,2,50,50,Shared model,0.7495
+COG,2,100,100,Expert (own country only),0.7415
+COG,2,100,100,Shared model,0.7498
+COG,2,200,200,Expert (own country only),0.7199
+COG,2,200,200,Shared model,0.7491
+COG,2,400,400,Expert (own country only),0.7383
+COG,2,400,400,Shared model,0.7499
+COG,2,796,all,Expert (own country only),0.757
+COG,2,796,all,Shared model,0.7503
+COG,3,50,50,Expert (own country only),0.665
+COG,3,50,50,Shared model,0.7415
+COG,3,100,100,Expert (own country only),0.6921
+COG,3,100,100,Shared model,0.7415
+COG,3,200,200,Expert (own country only),0.7069
+COG,3,200,200,Shared model,0.7414
+COG,3,400,400,Expert (own country only),0.7349
+COG,3,400,400,Shared model,0.7415
+COG,3,796,all,Expert (own country only),0.7267
+COG,3,796,all,Shared model,0.7413
+COG,4,50,50,Expert (own country only),0.7448
+COG,4,50,50,Shared model,0.769
+COG,4,100,100,Expert (own country only),0.7246
+COG,4,100,100,Shared model,0.7688
+COG,4,200,200,Expert (own country only),0.7598
+COG,4,200,200,Shared model,0.7692
+COG,4,400,400,Expert (own country only),0.7711
+COG,4,400,400,Shared model,0.7695
+COG,4,796,all,Expert (own country only),0.7727
+COG,4,796,all,Shared model,0.7697
+COM,0,50,50,Expert (own country only),0.5624
+COM,0,50,50,Shared model,0.7009
+COM,0,100,100,Expert (own country only),0.603
+COM,0,100,100,Shared model,0.7009
+COM,0,200,200,Expert (own country only),0.5732
+COM,0,200,200,Shared model,0.7004
+COM,0,400,400,Expert (own country only),0.6234
+COM,0,400,400,Shared model,0.7009
+COM,0,751,all,Expert (own country only),0.6357
+COM,0,751,all,Shared model,0.7006
+COM,1,50,50,Expert (own country only),0.5478
+COM,1,50,50,Shared model,0.6056
+COM,1,100,100,Expert (own country only),0.6102
+COM,1,100,100,Shared model,0.6054
+COM,1,200,200,Expert (own country only),0.6566
+COM,1,200,200,Shared model,0.606
+COM,1,400,400,Expert (own country only),0.6297
+COM,1,400,400,Shared model,0.6057
+COM,1,751,all,Expert (own country only),0.6307
+COM,1,751,all,Shared model,0.6054
+COM,2,50,50,Expert (own country only),0.6646
+COM,2,50,50,Shared model,0.6882
+COM,2,100,100,Expert (own country only),0.6743
+COM,2,100,100,Shared model,0.6882
+COM,2,200,200,Expert (own country only),0.6679
+COM,2,200,200,Shared model,0.6888
+COM,2,400,400,Expert (own country only),0.7272
+COM,2,400,400,Shared model,0.6894
+COM,2,751,all,Expert (own country only),0.7217
+COM,2,751,all,Shared model,0.6897
+COM,3,50,50,Expert (own country only),0.4681
+COM,3,50,50,Shared model,0.6831
+COM,3,100,100,Expert (own country only),0.727
+COM,3,100,100,Shared model,0.6836
+COM,3,200,200,Expert (own country only),0.5981
+COM,3,200,200,Shared model,0.684
+COM,3,400,400,Expert (own country only),0.6828
+COM,3,400,400,Shared model,0.6836
+COM,3,751,all,Expert (own country only),0.7044
+COM,3,751,all,Shared model,0.6837
+COM,4,50,50,Expert (own country only),0.5217
+COM,4,50,50,Shared model,0.6323
+COM,4,100,100,Expert (own country only),0.5976
+COM,4,100,100,Shared model,0.6322
+COM,4,200,200,Expert (own country only),0.5944
+COM,4,200,200,Shared model,0.6328
+COM,4,400,400,Expert (own country only),0.6214
+COM,4,400,400,Shared model,0.6319
+COM,4,752,all,Expert (own country only),0.6385
+COM,4,752,all,Shared model,0.6325
+ETH,0,50,50,Expert (own country only),0.8002
+ETH,0,50,50,Shared model,0.8311
+ETH,0,100,100,Expert (own country only),0.8334
+ETH,0,100,100,Shared model,0.8309
+ETH,0,200,200,Expert (own country only),0.8188
+ETH,0,200,200,Shared model,0.8311
+ETH,0,400,400,Expert (own country only),0.8285
+ETH,0,400,400,Shared model,0.8312
+ETH,0,799,all,Expert (own country only),0.8359
+ETH,0,799,all,Shared model,0.8314
+ETH,1,50,50,Expert (own country only),0.7719
+ETH,1,50,50,Shared model,0.8384
+ETH,1,100,100,Expert (own country only),0.8487
+ETH,1,100,100,Shared model,0.8384
+ETH,1,200,200,Expert (own country only),0.8148
+ETH,1,200,200,Shared model,0.8383
+ETH,1,400,400,Expert (own country only),0.8331
+ETH,1,400,400,Shared model,0.8383
+ETH,1,799,all,Expert (own country only),0.8311
+ETH,1,799,all,Shared model,0.8384
+ETH,2,50,50,Expert (own country only),0.7195
+ETH,2,50,50,Shared model,0.8052
+ETH,2,100,100,Expert (own country only),0.7747
+ETH,2,100,100,Shared model,0.8051
+ETH,2,200,200,Expert (own country only),0.7809
+ETH,2,200,200,Shared model,0.8051
+ETH,2,400,400,Expert (own country only),0.7866
+ETH,2,400,400,Shared model,0.8049
+ETH,2,799,all,Expert (own country only),0.7925
+ETH,2,799,all,Shared model,0.8054
+ETH,3,50,50,Expert (own country only),0.7438
+ETH,3,50,50,Shared model,0.7806
+ETH,3,100,100,Expert (own country only),0.7914
+ETH,3,100,100,Shared model,0.7812
+ETH,3,200,200,Expert (own country only),0.8116
+ETH,3,200,200,Shared model,0.7814
+ETH,3,400,400,Expert (own country only),0.7895
+ETH,3,400,400,Shared model,0.7812
+ETH,3,799,all,Expert (own country only),0.7933
+ETH,3,799,all,Shared model,0.7814
+ETH,4,50,50,Expert (own country only),0.8185
+ETH,4,50,50,Shared model,0.8928
+ETH,4,100,100,Expert (own country only),0.8232
+ETH,4,100,100,Shared model,0.8927
+ETH,4,200,200,Expert (own country only),0.878
+ETH,4,200,200,Shared model,0.893
+ETH,4,400,400,Expert (own country only),0.8736
+ETH,4,400,400,Shared model,0.8931
+ETH,4,800,all,Expert (own country only),0.8802
+ETH,4,800,all,Shared model,0.8933
+GAB,0,50,50,Expert (own country only),0.7772
+GAB,0,50,50,Shared model,0.8187
+GAB,0,100,100,Expert (own country only),0.7184
+GAB,0,100,100,Shared model,0.8183
+GAB,0,200,200,Expert (own country only),0.8136
+GAB,0,200,200,Shared model,0.8187
+GAB,0,400,400,Expert (own country only),0.8169
+GAB,0,400,400,Shared model,0.8187
+GAB,0,796,all,Expert (own country only),0.8178
+GAB,0,796,all,Shared model,0.8189
+GAB,1,50,50,Expert (own country only),0.5542
+GAB,1,50,50,Shared model,0.7185
+GAB,1,100,100,Expert (own country only),0.6665
+GAB,1,100,100,Shared model,0.7182
+GAB,1,200,200,Expert (own country only),0.7436
+GAB,1,200,200,Shared model,0.7185
+GAB,1,400,400,Expert (own country only),0.6741
+GAB,1,400,400,Shared model,0.7181
+GAB,1,796,all,Expert (own country only),0.7042
+GAB,1,796,all,Shared model,0.7177
+GAB,2,50,50,Expert (own country only),0.5824
+GAB,2,50,50,Shared model,0.7057
+GAB,2,100,100,Expert (own country only),0.6285
+GAB,2,100,100,Shared model,0.7055
+GAB,2,200,200,Expert (own country only),0.6893
+GAB,2,200,200,Shared model,0.7055
+GAB,2,400,400,Expert (own country only),0.7055
+GAB,2,400,400,Shared model,0.7059
+GAB,2,796,all,Expert (own country only),0.7026
+GAB,2,796,all,Shared model,0.7055
+GAB,3,50,50,Expert (own country only),0.5726
+GAB,3,50,50,Shared model,0.7612
+GAB,3,100,100,Expert (own country only),0.6378
+GAB,3,100,100,Shared model,0.7609
+GAB,3,200,200,Expert (own country only),0.6788
+GAB,3,200,200,Shared model,0.7615
+GAB,3,400,400,Expert (own country only),0.7466
+GAB,3,400,400,Shared model,0.7609
+GAB,3,796,all,Expert (own country only),0.7413
+GAB,3,796,all,Shared model,0.7612
+GAB,4,50,50,Expert (own country only),0.6821
+GAB,4,50,50,Shared model,0.7021
+GAB,4,100,100,Expert (own country only),0.6878
+GAB,4,100,100,Shared model,0.7021
+GAB,4,200,200,Expert (own country only),0.7001
+GAB,4,200,200,Shared model,0.7017
+GAB,4,400,400,Expert (own country only),0.6992
+GAB,4,400,400,Shared model,0.702
+GAB,4,796,all,Expert (own country only),0.7056
+GAB,4,796,all,Shared model,0.7017
+GHA,0,50,50,Expert (own country only),0.8968
+GHA,0,50,50,Shared model,0.9187
+GHA,0,100,100,Expert (own country only),0.8838
+GHA,0,100,100,Shared model,0.9185
+GHA,0,200,200,Expert (own country only),0.8365
+GHA,0,200,200,Shared model,0.9187
+GHA,0,400,400,Expert (own country only),0.877
+GHA,0,400,400,Shared model,0.9184
+GHA,0,796,all,Expert (own country only),0.8852
+GHA,0,796,all,Shared model,0.9184
+GHA,1,50,50,Expert (own country only),0.8084
+GHA,1,50,50,Shared model,0.9087
+GHA,1,100,100,Expert (own country only),0.861
+GHA,1,100,100,Shared model,0.9086
+GHA,1,200,200,Expert (own country only),0.8225
+GHA,1,200,200,Shared model,0.9084
+GHA,1,400,400,Expert (own country only),0.8988
+GHA,1,400,400,Shared model,0.9086
+GHA,1,796,all,Expert (own country only),0.8914
+GHA,1,796,all,Shared model,0.9084
+GHA,2,50,50,Expert (own country only),0.895
+GHA,2,50,50,Shared model,0.9239
+GHA,2,100,100,Expert (own country only),0.8672
+GHA,2,100,100,Shared model,0.9237
+GHA,2,200,200,Expert (own country only),0.8977
+GHA,2,200,200,Shared model,0.9239
+GHA,2,400,400,Expert (own country only),0.9228
+GHA,2,400,400,Shared model,0.9246
+GHA,2,796,all,Expert (own country only),0.9282
+GHA,2,796,all,Shared model,0.9244
+GHA,3,50,50,Expert (own country only),0.7752
+GHA,3,50,50,Shared model,0.8171
+GHA,3,100,100,Expert (own country only),0.734
+GHA,3,100,100,Shared model,0.8173
+GHA,3,200,200,Expert (own country only),0.7754
+GHA,3,200,200,Shared model,0.8171
+GHA,3,400,400,Expert (own country only),0.7827
+GHA,3,400,400,Shared model,0.8166
+GHA,3,796,all,Expert (own country only),0.8012
+GHA,3,796,all,Shared model,0.8168
+GHA,4,50,50,Expert (own country only),0.8771
+GHA,4,50,50,Shared model,0.8805
+GHA,4,100,100,Expert (own country only),0.9013
+GHA,4,100,100,Shared model,0.8801
+GHA,4,200,200,Expert (own country only),0.8983
+GHA,4,200,200,Shared model,0.8803
+GHA,4,400,400,Expert (own country only),0.9053
+GHA,4,400,400,Shared model,0.8803
+GHA,4,796,all,Expert (own country only),0.8946
+GHA,4,796,all,Shared model,0.8803
+GIN,0,50,50,Expert (own country only),0.7554
+GIN,0,50,50,Shared model,0.761
+GIN,0,100,100,Expert (own country only),0.6869
+GIN,0,100,100,Shared model,0.7611
+GIN,0,200,200,Expert (own country only),0.7666
+GIN,0,200,200,Shared model,0.761
+GIN,0,400,400,Expert (own country only),0.716
+GIN,0,400,400,Shared model,0.7603
+GIN,0,799,all,Expert (own country only),0.7626
+GIN,0,799,all,Shared model,0.7608
+GIN,1,50,50,Expert (own country only),0.7182
+GIN,1,50,50,Shared model,0.7511
+GIN,1,100,100,Expert (own country only),0.7477
+GIN,1,100,100,Shared model,0.7512
+GIN,1,200,200,Expert (own country only),0.7343
+GIN,1,200,200,Shared model,0.7512
+GIN,1,400,400,Expert (own country only),0.7251
+GIN,1,400,400,Shared model,0.751
+GIN,1,799,all,Expert (own country only),0.7371
+GIN,1,799,all,Shared model,0.7514
+GIN,2,50,50,Expert (own country only),0.8074
+GIN,2,50,50,Shared model,0.8365
+GIN,2,100,100,Expert (own country only),0.7996
+GIN,2,100,100,Shared model,0.8367
+GIN,2,200,200,Expert (own country only),0.8383
+GIN,2,200,200,Shared model,0.8364
+GIN,2,400,400,Expert (own country only),0.8137
+GIN,2,400,400,Shared model,0.8366
+GIN,2,799,all,Expert (own country only),0.8275
+GIN,2,799,all,Shared model,0.8366
+GIN,3,50,50,Expert (own country only),0.7443
+GIN,3,50,50,Shared model,0.8049
+GIN,3,100,100,Expert (own country only),0.785
+GIN,3,100,100,Shared model,0.8051
+GIN,3,200,200,Expert (own country only),0.781
+GIN,3,200,200,Shared model,0.8055
+GIN,3,400,400,Expert (own country only),0.801
+GIN,3,400,400,Shared model,0.805
+GIN,3,799,all,Expert (own country only),0.8086
+GIN,3,799,all,Shared model,0.8052
+GIN,4,50,50,Expert (own country only),0.7347
+GIN,4,50,50,Shared model,0.752
+GIN,4,100,100,Expert (own country only),0.7672
+GIN,4,100,100,Shared model,0.7516
+GIN,4,200,200,Expert (own country only),0.7621
+GIN,4,200,200,Shared model,0.7519
+GIN,4,400,400,Expert (own country only),0.7595
+GIN,4,400,400,Shared model,0.7515
+GIN,4,800,all,Expert (own country only),0.7487
+GIN,4,800,all,Shared model,0.7506
+GMB,0,50,50,Expert (own country only),0.7119
+GMB,0,50,50,Shared model,0.7896
+GMB,0,100,100,Expert (own country only),0.7462
+GMB,0,100,100,Shared model,0.7896
+GMB,0,200,200,Expert (own country only),0.7767
+GMB,0,200,200,Shared model,0.7895
+GMB,0,400,400,Expert (own country only),0.7789
+GMB,0,400,400,Shared model,0.7896
+GMB,0,803,all,Expert (own country only),0.7797
+GMB,0,803,all,Shared model,0.7897
+GMB,1,50,50,Expert (own country only),0.778
+GMB,1,50,50,Shared model,0.7925
+GMB,1,100,100,Expert (own country only),0.8068
+GMB,1,100,100,Shared model,0.7928
+GMB,1,200,200,Expert (own country only),0.8082
+GMB,1,200,200,Shared model,0.7931
+GMB,1,400,400,Expert (own country only),0.8116
+GMB,1,400,400,Shared model,0.7928
+GMB,1,803,all,Expert (own country only),0.8148
+GMB,1,803,all,Shared model,0.7937
+GMB,2,50,50,Expert (own country only),0.689
+GMB,2,50,50,Shared model,0.8152
+GMB,2,100,100,Expert (own country only),0.8255
+GMB,2,100,100,Shared model,0.8153
+GMB,2,200,200,Expert (own country only),0.8236
+GMB,2,200,200,Shared model,0.8152
+GMB,2,400,400,Expert (own country only),0.8319
+GMB,2,400,400,Shared model,0.8163
+GMB,2,803,all,Expert (own country only),0.8282
+GMB,2,803,all,Shared model,0.8179
+GMB,3,50,50,Expert (own country only),0.7172
+GMB,3,50,50,Shared model,0.7117
+GMB,3,100,100,Expert (own country only),0.7368
+GMB,3,100,100,Shared model,0.7116
+GMB,3,200,200,Expert (own country only),0.7312
+GMB,3,200,200,Shared model,0.7125
+GMB,3,400,400,Expert (own country only),0.7438
+GMB,3,400,400,Shared model,0.7127
+GMB,3,803,all,Expert (own country only),0.7405
+GMB,3,803,all,Shared model,0.7125
+GMB,4,50,50,Expert (own country only),0.7403
+GMB,4,50,50,Shared model,0.825
+GMB,4,100,100,Expert (own country only),0.8243
+GMB,4,100,100,Shared model,0.8255
+GMB,4,200,200,Expert (own country only),0.8295
+GMB,4,200,200,Shared model,0.8253
+GMB,4,400,400,Expert (own country only),0.8379
+GMB,4,400,400,Shared model,0.826
+GMB,4,804,all,Expert (own country only),0.8347
+GMB,4,804,all,Shared model,0.8269
+KEN,0,50,50,Expert (own country only),0.5272
+KEN,0,50,50,Shared model,0.8324
+KEN,0,100,100,Expert (own country only),0.7949
+KEN,0,100,100,Shared model,0.8324
+KEN,0,200,200,Expert (own country only),0.7933
+KEN,0,200,200,Shared model,0.8324
+KEN,0,400,400,Expert (own country only),0.7875
+KEN,0,400,400,Shared model,0.8321
+KEN,0,798,all,Expert (own country only),0.8153
+KEN,0,798,all,Shared model,0.8321
+KEN,1,50,50,Expert (own country only),0.678
+KEN,1,50,50,Shared model,0.9085
+KEN,1,100,100,Expert (own country only),0.8536
+KEN,1,100,100,Shared model,0.9083
+KEN,1,200,200,Expert (own country only),0.8289
+KEN,1,200,200,Shared model,0.9085
+KEN,1,400,400,Expert (own country only),0.8966
+KEN,1,400,400,Shared model,0.9083
+KEN,1,798,all,Expert (own country only),0.8963
+KEN,1,798,all,Shared model,0.9083
+KEN,2,50,50,Expert (own country only),0.7584
+KEN,2,50,50,Shared model,0.795
+KEN,2,100,100,Expert (own country only),0.7601
+KEN,2,100,100,Shared model,0.7947
+KEN,2,200,200,Expert (own country only),0.7662
+KEN,2,200,200,Shared model,0.7947
+KEN,2,400,400,Expert (own country only),0.7726
+KEN,2,400,400,Shared model,0.7941
+KEN,2,798,all,Expert (own country only),0.7685
+KEN,2,798,all,Shared model,0.7944
+KEN,3,50,50,Expert (own country only),0.8557
+KEN,3,50,50,Shared model,0.8748
+KEN,3,100,100,Expert (own country only),0.8244
+KEN,3,100,100,Shared model,0.8748
+KEN,3,200,200,Expert (own country only),0.8226
+KEN,3,200,200,Shared model,0.8748
+KEN,3,400,400,Expert (own country only),0.8416
+KEN,3,400,400,Shared model,0.8751
+KEN,3,799,all,Expert (own country only),0.8594
+KEN,3,799,all,Shared model,0.8751
+KEN,4,50,50,Expert (own country only),0.8422
+KEN,4,50,50,Shared model,0.8917
+KEN,4,100,100,Expert (own country only),0.8284
+KEN,4,100,100,Shared model,0.8917
+KEN,4,200,200,Expert (own country only),0.8714
+KEN,4,200,200,Shared model,0.8917
+KEN,4,400,400,Expert (own country only),0.8895
+KEN,4,400,400,Shared model,0.892
+KEN,4,799,all,Expert (own country only),0.8975
+KEN,4,799,all,Shared model,0.8917
+LBR,0,50,50,Expert (own country only),0.7699
+LBR,0,50,50,Shared model,0.7915
+LBR,0,100,100,Expert (own country only),0.7816
+LBR,0,100,100,Shared model,0.7915
+LBR,0,200,200,Expert (own country only),0.7814
+LBR,0,200,200,Shared model,0.7916
+LBR,0,400,400,Expert (own country only),0.7753
+LBR,0,400,400,Shared model,0.7917
+LBR,0,800,all,Expert (own country only),0.782
+LBR,0,800,all,Shared model,0.7915
+LBR,1,50,50,Expert (own country only),0.6508
+LBR,1,50,50,Shared model,0.7718
+LBR,1,100,100,Expert (own country only),0.7413
+LBR,1,100,100,Shared model,0.7716
+LBR,1,200,200,Expert (own country only),0.7452
+LBR,1,200,200,Shared model,0.7716
+LBR,1,400,400,Expert (own country only),0.76
+LBR,1,400,400,Shared model,0.7719
+LBR,1,800,all,Expert (own country only),0.7654
+LBR,1,800,all,Shared model,0.7723
+LBR,2,50,50,Expert (own country only),0.7992
+LBR,2,50,50,Shared model,0.8428
+LBR,2,100,100,Expert (own country only),0.7819
+LBR,2,100,100,Shared model,0.8428
+LBR,2,200,200,Expert (own country only),0.7408
+LBR,2,200,200,Shared model,0.8427
+LBR,2,400,400,Expert (own country only),0.8249
+LBR,2,400,400,Shared model,0.8428
+LBR,2,800,all,Expert (own country only),0.8271
+LBR,2,800,all,Shared model,0.8425
+LBR,3,50,50,Expert (own country only),0.6608
+LBR,3,50,50,Shared model,0.7134
+LBR,3,100,100,Expert (own country only),0.7045
+LBR,3,100,100,Shared model,0.7133
+LBR,3,200,200,Expert (own country only),0.7113
+LBR,3,200,200,Shared model,0.7131
+LBR,3,400,400,Expert (own country only),0.7158
+LBR,3,400,400,Shared model,0.7135
+LBR,3,800,all,Expert (own country only),0.7201
+LBR,3,800,all,Shared model,0.7141
+LBR,4,50,50,Expert (own country only),0.7295
+LBR,4,50,50,Shared model,0.7871
+LBR,4,100,100,Expert (own country only),0.7629
+LBR,4,100,100,Shared model,0.7869
+LBR,4,200,200,Expert (own country only),0.7576
+LBR,4,200,200,Shared model,0.787
+LBR,4,400,400,Expert (own country only),0.7831
+LBR,4,400,400,Shared model,0.7867
+LBR,4,800,all,Expert (own country only),0.7828
+LBR,4,800,all,Shared model,0.7871
+MDG,0,50,50,Expert (own country only),0.863
+MDG,0,50,50,Shared model,0.8881
+MDG,0,100,100,Expert (own country only),0.8497
+MDG,0,100,100,Shared model,0.8879
+MDG,0,200,200,Expert (own country only),0.8635
+MDG,0,200,200,Shared model,0.8882
+MDG,0,400,400,Expert (own country only),0.8751
+MDG,0,400,400,Shared model,0.8882
+MDG,0,794,all,Expert (own country only),0.8917
+MDG,0,794,all,Shared model,0.8884
+MDG,1,50,50,Expert (own country only),0.7524
+MDG,1,50,50,Shared model,0.8143
+MDG,1,100,100,Expert (own country only),0.8065
+MDG,1,100,100,Shared model,0.8143
+MDG,1,200,200,Expert (own country only),0.8112
+MDG,1,200,200,Shared model,0.8143
+MDG,1,400,400,Expert (own country only),0.8184
+MDG,1,400,400,Shared model,0.8147
+MDG,1,794,all,Expert (own country only),0.8198
+MDG,1,794,all,Shared model,0.8153
+MDG,2,50,50,Expert (own country only),0.7308
+MDG,2,50,50,Shared model,0.8406
+MDG,2,100,100,Expert (own country only),0.8087
+MDG,2,100,100,Shared model,0.8406
+MDG,2,200,200,Expert (own country only),0.8497
+MDG,2,200,200,Shared model,0.8413
+MDG,2,400,400,Expert (own country only),0.8391
+MDG,2,400,400,Shared model,0.8412
+MDG,2,794,all,Expert (own country only),0.8532
+MDG,2,794,all,Shared model,0.8409
+MDG,3,50,50,Expert (own country only),0.7841
+MDG,3,50,50,Shared model,0.8016
+MDG,3,100,100,Expert (own country only),0.8284
+MDG,3,100,100,Shared model,0.8017
+MDG,3,200,200,Expert (own country only),0.8016
+MDG,3,200,200,Shared model,0.8017
+MDG,3,400,400,Expert (own country only),0.7825
+MDG,3,400,400,Shared model,0.8017
+MDG,3,795,all,Expert (own country only),0.8084
+MDG,3,795,all,Shared model,0.8024
+MDG,4,50,50,Expert (own country only),0.746
+MDG,4,50,50,Shared model,0.8367
+MDG,4,100,100,Expert (own country only),0.8168
+MDG,4,100,100,Shared model,0.837
+MDG,4,200,200,Expert (own country only),0.7902
+MDG,4,200,200,Shared model,0.8362
+MDG,4,400,400,Expert (own country only),0.832
+MDG,4,400,400,Shared model,0.8358
+MDG,4,795,all,Expert (own country only),0.8451
+MDG,4,795,all,Shared model,0.8358
+MLI,0,50,50,Expert (own country only),0.723
+MLI,0,50,50,Shared model,0.7064
+MLI,0,100,100,Expert (own country only),0.693
+MLI,0,100,100,Shared model,0.7064
+MLI,0,200,200,Expert (own country only),0.722
+MLI,0,200,200,Shared model,0.7065
+MLI,0,400,400,Expert (own country only),0.7273
+MLI,0,400,400,Shared model,0.7064
+MLI,0,799,all,Expert (own country only),0.7161
+MLI,0,799,all,Shared model,0.7061
+MLI,1,50,50,Expert (own country only),0.7833
+MLI,1,50,50,Shared model,0.7797
+MLI,1,100,100,Expert (own country only),0.7679
+MLI,1,100,100,Shared model,0.7798
+MLI,1,200,200,Expert (own country only),0.7925
+MLI,1,200,200,Shared model,0.78
+MLI,1,400,400,Expert (own country only),0.7937
+MLI,1,400,400,Shared model,0.7798
+MLI,1,799,all,Expert (own country only),0.7989
+MLI,1,799,all,Shared model,0.7803
+MLI,2,50,50,Expert (own country only),0.7032
+MLI,2,50,50,Shared model,0.7856
+MLI,2,100,100,Expert (own country only),0.7453
+MLI,2,100,100,Shared model,0.7856
+MLI,2,200,200,Expert (own country only),0.7797
+MLI,2,200,200,Shared model,0.7858
+MLI,2,400,400,Expert (own country only),0.7914
+MLI,2,400,400,Shared model,0.7859
+MLI,2,799,all,Expert (own country only),0.7971
+MLI,2,799,all,Shared model,0.7862
+MLI,3,50,50,Expert (own country only),0.6858
+MLI,3,50,50,Shared model,0.717
+MLI,3,100,100,Expert (own country only),0.7208
+MLI,3,100,100,Shared model,0.7172
+MLI,3,200,200,Expert (own country only),0.7328
+MLI,3,200,200,Shared model,0.7177
+MLI,3,400,400,Expert (own country only),0.7324
+MLI,3,400,400,Shared model,0.7175
+MLI,3,799,all,Expert (own country only),0.7274
+MLI,3,799,all,Shared model,0.7171
+MLI,4,50,50,Expert (own country only),0.692
+MLI,4,50,50,Shared model,0.7783
+MLI,4,100,100,Expert (own country only),0.7226
+MLI,4,100,100,Shared model,0.7779
+MLI,4,200,200,Expert (own country only),0.7136
+MLI,4,200,200,Shared model,0.7781
+MLI,4,400,400,Expert (own country only),0.7709
+MLI,4,400,400,Shared model,0.7787
+MLI,4,800,all,Expert (own country only),0.7692
+MLI,4,800,all,Shared model,0.7789
+MOZ,0,50,50,Expert (own country only),0.8538
+MOZ,0,50,50,Shared model,0.8702
+MOZ,0,100,100,Expert (own country only),0.851
+MOZ,0,100,100,Shared model,0.8701
+MOZ,0,200,200,Expert (own country only),0.8435
+MOZ,0,200,200,Shared model,0.8701
+MOZ,0,400,400,Expert (own country only),0.8461
+MOZ,0,400,400,Shared model,0.8698
+MOZ,0,800,all,Expert (own country only),0.855
+MOZ,0,800,all,Shared model,0.8699
+MOZ,1,50,50,Expert (own country only),0.7888
+MOZ,1,50,50,Shared model,0.8599
+MOZ,1,100,100,Expert (own country only),0.8582
+MOZ,1,100,100,Shared model,0.8598
+MOZ,1,200,200,Expert (own country only),0.8388
+MOZ,1,200,200,Shared model,0.8601
+MOZ,1,400,400,Expert (own country only),0.8559
+MOZ,1,400,400,Shared model,0.8599
+MOZ,1,800,all,Expert (own country only),0.8644
+MOZ,1,800,all,Shared model,0.86
+MOZ,2,50,50,Expert (own country only),0.7627
+MOZ,2,50,50,Shared model,0.867
+MOZ,2,100,100,Expert (own country only),0.8494
+MOZ,2,100,100,Shared model,0.8671
+MOZ,2,200,200,Expert (own country only),0.837
+MOZ,2,200,200,Shared model,0.867
+MOZ,2,400,400,Expert (own country only),0.8537
+MOZ,2,400,400,Shared model,0.8674
+MOZ,2,800,all,Expert (own country only),0.8619
+MOZ,2,800,all,Shared model,0.8672
+MOZ,3,50,50,Expert (own country only),0.8153
+MOZ,3,50,50,Shared model,0.8643
+MOZ,3,100,100,Expert (own country only),0.8528
+MOZ,3,100,100,Shared model,0.8644
+MOZ,3,200,200,Expert (own country only),0.8418
+MOZ,3,200,200,Shared model,0.8644
+MOZ,3,400,400,Expert (own country only),0.8307
+MOZ,3,400,400,Shared model,0.8643
+MOZ,3,800,all,Expert (own country only),0.8608
+MOZ,3,800,all,Shared model,0.8641
+MOZ,4,50,50,Expert (own country only),0.7871
+MOZ,4,50,50,Shared model,0.8238
+MOZ,4,100,100,Expert (own country only),0.8018
+MOZ,4,100,100,Shared model,0.8236
+MOZ,4,200,200,Expert (own country only),0.787
+MOZ,4,200,200,Shared model,0.8235
+MOZ,4,400,400,Expert (own country only),0.8164
+MOZ,4,400,400,Shared model,0.8236
+MOZ,4,800,all,Expert (own country only),0.8101
+MOZ,4,800,all,Shared model,0.8233
+MRT,0,50,50,Expert (own country only),0.6207
+MRT,0,50,50,Shared model,0.7628
+MRT,0,100,100,Expert (own country only),0.5463
+MRT,0,100,100,Shared model,0.7626
+MRT,0,200,200,Expert (own country only),0.6528
+MRT,0,200,200,Shared model,0.7628
+MRT,0,400,400,Expert (own country only),0.7747
+MRT,0,400,400,Shared model,0.7631
+MRT,0,800,all,Expert (own country only),0.7618
+MRT,0,800,all,Shared model,0.7631
+MRT,1,50,50,Expert (own country only),0.6872
+MRT,1,50,50,Shared model,0.7418
+MRT,1,100,100,Expert (own country only),0.7466
+MRT,1,100,100,Shared model,0.7421
+MRT,1,200,200,Expert (own country only),0.7566
+MRT,1,200,200,Shared model,0.7418
+MRT,1,400,400,Expert (own country only),0.7539
+MRT,1,400,400,Shared model,0.7421
+MRT,1,800,all,Expert (own country only),0.7763
+MRT,1,800,all,Shared model,0.7418
+MRT,2,50,50,Expert (own country only),0.7088
+MRT,2,50,50,Shared model,0.7329
+MRT,2,100,100,Expert (own country only),0.6635
+MRT,2,100,100,Shared model,0.7326
+MRT,2,200,200,Expert (own country only),0.7092
+MRT,2,200,200,Shared model,0.7329
+MRT,2,400,400,Expert (own country only),0.7267
+MRT,2,400,400,Shared model,0.7332
+MRT,2,800,all,Expert (own country only),0.7293
+MRT,2,800,all,Shared model,0.7329
+MRT,3,50,50,Expert (own country only),0.7516
+MRT,3,50,50,Shared model,0.7293
+MRT,3,100,100,Expert (own country only),0.6852
+MRT,3,100,100,Shared model,0.7293
+MRT,3,200,200,Expert (own country only),0.7333
+MRT,3,200,200,Shared model,0.7299
+MRT,3,400,400,Expert (own country only),0.7519
+MRT,3,400,400,Shared model,0.7296
+MRT,3,800,all,Expert (own country only),0.7525
+MRT,3,800,all,Shared model,0.7295
+MRT,4,50,50,Expert (own country only),0.6599
+MRT,4,50,50,Shared model,0.6954
+MRT,4,100,100,Expert (own country only),0.6807
+MRT,4,100,100,Shared model,0.6953
+MRT,4,200,200,Expert (own country only),0.6741
+MRT,4,200,200,Shared model,0.6954
+MRT,4,400,400,Expert (own country only),0.6825
+MRT,4,400,400,Shared model,0.6954
+MRT,4,800,all,Expert (own country only),0.6796
+MRT,4,800,all,Shared model,0.6959
+MUS,0,50,50,Expert (own country only),0.8286
+MUS,0,50,50,Shared model,0.8615
+MUS,0,100,100,Expert (own country only),0.8289
+MUS,0,100,100,Shared model,0.8618
+MUS,0,200,200,Expert (own country only),0.8493
+MUS,0,200,200,Shared model,0.8618
+MUS,0,400,400,Expert (own country only),0.855
+MUS,0,400,400,Shared model,0.8618
+MUS,0,792,all,Expert (own country only),0.8592
+MUS,0,792,all,Shared model,0.8615
+MUS,1,50,50,Expert (own country only),0.7961
+MUS,1,50,50,Shared model,0.7878
+MUS,1,100,100,Expert (own country only),0.8072
+MUS,1,100,100,Shared model,0.7878
+MUS,1,200,200,Expert (own country only),0.7949
+MUS,1,200,200,Shared model,0.7883
+MUS,1,400,400,Expert (own country only),0.7917
+MUS,1,400,400,Shared model,0.7877
+MUS,1,793,all,Expert (own country only),0.7908
+MUS,1,793,all,Shared model,0.7892
+MUS,2,50,50,Expert (own country only),0.7138
+MUS,2,50,50,Shared model,0.787
+MUS,2,100,100,Expert (own country only),0.7711
+MUS,2,100,100,Shared model,0.7868
+MUS,2,200,200,Expert (own country only),0.7784
+MUS,2,200,200,Shared model,0.7874
+MUS,2,400,400,Expert (own country only),0.8064
+MUS,2,400,400,Shared model,0.7871
+MUS,2,793,all,Expert (own country only),0.8027
+MUS,2,793,all,Shared model,0.7873
+MUS,3,50,50,Expert (own country only),0.7821
+MUS,3,50,50,Shared model,0.8229
+MUS,3,100,100,Expert (own country only),0.701
+MUS,3,100,100,Shared model,0.8231
+MUS,3,200,200,Expert (own country only),0.8217
+MUS,3,200,200,Shared model,0.8232
+MUS,3,400,400,Expert (own country only),0.8432
+MUS,3,400,400,Shared model,0.8244
+MUS,3,793,all,Expert (own country only),0.8484
+MUS,3,793,all,Shared model,0.8248
+MUS,4,50,50,Expert (own country only),0.7429
+MUS,4,50,50,Shared model,0.8239
+MUS,4,100,100,Expert (own country only),0.7342
+MUS,4,100,100,Shared model,0.8237
+MUS,4,200,200,Expert (own country only),0.8093
+MUS,4,200,200,Shared model,0.8242
+MUS,4,400,400,Expert (own country only),0.8249
+MUS,4,400,400,Shared model,0.8244
+MUS,4,793,all,Expert (own country only),0.824
+MUS,4,793,all,Shared model,0.8239
+MWI,0,50,50,Expert (own country only),0.7791
+MWI,0,50,50,Shared model,0.8539
+MWI,0,100,100,Expert (own country only),0.8009
+MWI,0,100,100,Shared model,0.8538
+MWI,0,200,200,Expert (own country only),0.7701
+MWI,0,200,200,Shared model,0.8536
+MWI,0,400,400,Expert (own country only),0.8405
+MWI,0,400,400,Shared model,0.8544
+MWI,0,799,all,Expert (own country only),0.8573
+MWI,0,799,all,Shared model,0.8546
+MWI,1,50,50,Expert (own country only),0.7843
+MWI,1,50,50,Shared model,0.8746
+MWI,1,100,100,Expert (own country only),0.8319
+MWI,1,100,100,Shared model,0.8747
+MWI,1,200,200,Expert (own country only),0.8452
+MWI,1,200,200,Shared model,0.8743
+MWI,1,400,400,Expert (own country only),0.8629
+MWI,1,400,400,Shared model,0.8743
+MWI,1,799,all,Expert (own country only),0.8721
+MWI,1,799,all,Shared model,0.8749
+MWI,2,50,50,Expert (own country only),0.7257
+MWI,2,50,50,Shared model,0.8323
+MWI,2,100,100,Expert (own country only),0.8279
+MWI,2,100,100,Shared model,0.8325
+MWI,2,200,200,Expert (own country only),0.8254
+MWI,2,200,200,Shared model,0.8323
+MWI,2,400,400,Expert (own country only),0.8319
+MWI,2,400,400,Shared model,0.8326
+MWI,2,799,all,Expert (own country only),0.8386
+MWI,2,799,all,Shared model,0.8333
+MWI,3,50,50,Expert (own country only),0.6816
+MWI,3,50,50,Shared model,0.747
+MWI,3,100,100,Expert (own country only),0.7293
+MWI,3,100,100,Shared model,0.7471
+MWI,3,200,200,Expert (own country only),0.7556
+MWI,3,200,200,Shared model,0.7471
+MWI,3,400,400,Expert (own country only),0.7436
+MWI,3,400,400,Shared model,0.7471
+MWI,3,799,all,Expert (own country only),0.7496
+MWI,3,799,all,Shared model,0.747
+MWI,4,50,50,Expert (own country only),0.8168
+MWI,4,50,50,Shared model,0.8361
+MWI,4,100,100,Expert (own country only),0.8117
+MWI,4,100,100,Shared model,0.8362
+MWI,4,200,200,Expert (own country only),0.8154
+MWI,4,200,200,Shared model,0.8362
+MWI,4,400,400,Expert (own country only),0.8169
+MWI,4,400,400,Shared model,0.8362
+MWI,4,800,all,Expert (own country only),0.8262
+MWI,4,800,all,Shared model,0.8361
+NAM,0,50,50,Expert (own country only),0.789
+NAM,0,50,50,Shared model,0.8654
+NAM,0,100,100,Expert (own country only),0.8407
+NAM,0,100,100,Shared model,0.8653
+NAM,0,200,200,Expert (own country only),0.8535
+NAM,0,200,200,Shared model,0.8654
+NAM,0,400,400,Expert (own country only),0.8421
+NAM,0,400,400,Shared model,0.865
+NAM,0,788,all,Expert (own country only),0.8519
+NAM,0,788,all,Shared model,0.865
+NAM,1,50,50,Expert (own country only),0.8133
+NAM,1,50,50,Shared model,0.8221
+NAM,1,100,100,Expert (own country only),0.8148
+NAM,1,100,100,Shared model,0.8218
+NAM,1,200,200,Expert (own country only),0.8291
+NAM,1,200,200,Shared model,0.8225
+NAM,1,400,400,Expert (own country only),0.8253
+NAM,1,400,400,Shared model,0.8221
+NAM,1,788,all,Expert (own country only),0.8313
+NAM,1,788,all,Shared model,0.8223
+NAM,2,50,50,Expert (own country only),0.8528
+NAM,2,50,50,Shared model,0.8384
+NAM,2,100,100,Expert (own country only),0.812
+NAM,2,100,100,Shared model,0.8383
+NAM,2,200,200,Expert (own country only),0.8376
+NAM,2,200,200,Shared model,0.838
+NAM,2,400,400,Expert (own country only),0.8363
+NAM,2,400,400,Shared model,0.8381
+NAM,2,788,all,Expert (own country only),0.8441
+NAM,2,788,all,Shared model,0.8379
+NAM,3,50,50,Expert (own country only),0.7148
+NAM,3,50,50,Shared model,0.7703
+NAM,3,100,100,Expert (own country only),0.792
+NAM,3,100,100,Shared model,0.7704
+NAM,3,200,200,Expert (own country only),0.7712
+NAM,3,200,200,Shared model,0.7707
+NAM,3,400,400,Expert (own country only),0.7547
+NAM,3,400,400,Shared model,0.7699
+NAM,3,788,all,Expert (own country only),0.7656
+NAM,3,788,all,Shared model,0.7701
+NAM,4,50,50,Expert (own country only),0.7067
+NAM,4,50,50,Shared model,0.8758
+NAM,4,100,100,Expert (own country only),0.8612
+NAM,4,100,100,Shared model,0.8758
+NAM,4,200,200,Expert (own country only),0.8859
+NAM,4,200,200,Shared model,0.8759
+NAM,4,400,400,Expert (own country only),0.8801
+NAM,4,400,400,Shared model,0.8761
+NAM,4,788,all,Expert (own country only),0.8788
+NAM,4,788,all,Shared model,0.8761
+NER,0,50,50,Expert (own country only),0.5372
+NER,0,50,50,Shared model,0.6947
+NER,0,100,100,Expert (own country only),0.594
+NER,0,100,100,Shared model,0.6944
+NER,0,200,200,Expert (own country only),0.7028
+NER,0,200,200,Shared model,0.6944
+NER,0,400,400,Expert (own country only),0.7251
+NER,0,400,400,Shared model,0.6949
+NER,0,798,all,Expert (own country only),0.7106
+NER,0,798,all,Shared model,0.6947
+NER,1,50,50,Expert (own country only),0.6932
+NER,1,50,50,Shared model,0.7723
+NER,1,100,100,Expert (own country only),0.7234
+NER,1,100,100,Shared model,0.7723
+NER,1,200,200,Expert (own country only),0.7399
+NER,1,200,200,Shared model,0.7718
+NER,1,400,400,Expert (own country only),0.7605
+NER,1,400,400,Shared model,0.7718
+NER,1,798,all,Expert (own country only),0.7804
+NER,1,798,all,Shared model,0.7716
+NER,2,50,50,Expert (own country only),0.8468
+NER,2,50,50,Shared model,0.7864
+NER,2,100,100,Expert (own country only),0.6125
+NER,2,100,100,Shared model,0.7852
+NER,2,200,200,Expert (own country only),0.8026
+NER,2,200,200,Shared model,0.7862
+NER,2,400,400,Expert (own country only),0.8392
+NER,2,400,400,Shared model,0.7872
+NER,2,798,all,Expert (own country only),0.8309
+NER,2,798,all,Shared model,0.7872
+NER,3,50,50,Expert (own country only),0.7817
+NER,3,50,50,Shared model,0.7533
+NER,3,100,100,Expert (own country only),0.7578
+NER,3,100,100,Shared model,0.7536
+NER,3,200,200,Expert (own country only),0.7304
+NER,3,200,200,Shared model,0.7533
+NER,3,400,400,Expert (own country only),0.7402
+NER,3,400,400,Shared model,0.7531
+NER,3,799,all,Expert (own country only),0.761
+NER,3,799,all,Shared model,0.7531
+NER,4,50,50,Expert (own country only),0.6766
+NER,4,50,50,Shared model,0.7582
+NER,4,100,100,Expert (own country only),0.7505
+NER,4,100,100,Shared model,0.7582
+NER,4,200,200,Expert (own country only),0.7824
+NER,4,200,200,Shared model,0.7582
+NER,4,400,400,Expert (own country only),0.7463
+NER,4,400,400,Shared model,0.7579
+NER,4,799,all,Expert (own country only),0.7478
+NER,4,799,all,Shared model,0.7579
+NGA,0,50,50,Expert (own country only),0.8311
+NGA,0,50,50,Shared model,0.8715
+NGA,0,100,100,Expert (own country only),0.8596
+NGA,0,100,100,Shared model,0.8717
+NGA,0,200,200,Expert (own country only),0.8358
+NGA,0,200,200,Shared model,0.8716
+NGA,0,400,400,Expert (own country only),0.8619
+NGA,0,400,400,Shared model,0.8713
+NGA,0,796,all,Expert (own country only),0.8597
+NGA,0,796,all,Shared model,0.8713
+NGA,1,50,50,Expert (own country only),0.8079
+NGA,1,50,50,Shared model,0.8691
+NGA,1,100,100,Expert (own country only),0.8389
+NGA,1,100,100,Shared model,0.8691
+NGA,1,200,200,Expert (own country only),0.8636
+NGA,1,200,200,Shared model,0.8689
+NGA,1,400,400,Expert (own country only),0.8604
+NGA,1,400,400,Shared model,0.8693
+NGA,1,797,all,Expert (own country only),0.8573
+NGA,1,797,all,Shared model,0.8696
+NGA,2,50,50,Expert (own country only),0.7643
+NGA,2,50,50,Shared model,0.8914
+NGA,2,100,100,Expert (own country only),0.8493
+NGA,2,100,100,Shared model,0.8916
+NGA,2,200,200,Expert (own country only),0.8757
+NGA,2,200,200,Shared model,0.8915
+NGA,2,400,400,Expert (own country only),0.8856
+NGA,2,400,400,Shared model,0.8914
+NGA,2,797,all,Expert (own country only),0.8863
+NGA,2,797,all,Shared model,0.891
+NGA,3,50,50,Expert (own country only),0.866
+NGA,3,50,50,Shared model,0.8775
+NGA,3,100,100,Expert (own country only),0.8423
+NGA,3,100,100,Shared model,0.877
+NGA,3,200,200,Expert (own country only),0.8713
+NGA,3,200,200,Shared model,0.8777
+NGA,3,400,400,Expert (own country only),0.8619
+NGA,3,400,400,Shared model,0.8779
+NGA,3,797,all,Expert (own country only),0.8766
+NGA,3,797,all,Shared model,0.8777
+NGA,4,50,50,Expert (own country only),0.7628
+NGA,4,50,50,Shared model,0.8503
+NGA,4,100,100,Expert (own country only),0.8237
+NGA,4,100,100,Shared model,0.8505
+NGA,4,200,200,Expert (own country only),0.856
+NGA,4,200,200,Shared model,0.8508
+NGA,4,400,400,Expert (own country only),0.8365
+NGA,4,400,400,Shared model,0.8508
+NGA,4,797,all,Expert (own country only),0.8478
+NGA,4,797,all,Shared model,0.8515
+SEN,0,50,50,Expert (own country only),0.7061
+SEN,0,50,50,Shared model,0.8406
+SEN,0,100,100,Expert (own country only),0.6432
+SEN,0,100,100,Shared model,0.8403
+SEN,0,200,200,Expert (own country only),0.7853
+SEN,0,200,200,Shared model,0.8403
+SEN,0,400,400,Expert (own country only),0.8121
+SEN,0,400,400,Shared model,0.8403
+SEN,0,797,all,Expert (own country only),0.8103
+SEN,0,797,all,Shared model,0.8402
+SEN,1,50,50,Expert (own country only),0.7451
+SEN,1,50,50,Shared model,0.7877
+SEN,1,100,100,Expert (own country only),0.7693
+SEN,1,100,100,Shared model,0.7875
+SEN,1,200,200,Expert (own country only),0.8059
+SEN,1,200,200,Shared model,0.7877
+SEN,1,400,400,Expert (own country only),0.7952
+SEN,1,400,400,Shared model,0.7874
+SEN,1,797,all,Expert (own country only),0.8008
+SEN,1,797,all,Shared model,0.7877
+SEN,2,50,50,Expert (own country only),0.7364
+SEN,2,50,50,Shared model,0.7637
+SEN,2,100,100,Expert (own country only),0.7704
+SEN,2,100,100,Shared model,0.7639
+SEN,2,200,200,Expert (own country only),0.7622
+SEN,2,200,200,Shared model,0.7637
+SEN,2,400,400,Expert (own country only),0.775
+SEN,2,400,400,Shared model,0.764
+SEN,2,798,all,Expert (own country only),0.7682
+SEN,2,798,all,Shared model,0.7639
+SEN,3,50,50,Expert (own country only),0.7685
+SEN,3,50,50,Shared model,0.7931
+SEN,3,100,100,Expert (own country only),0.6755
+SEN,3,100,100,Shared model,0.7938
+SEN,3,200,200,Expert (own country only),0.7788
+SEN,3,200,200,Shared model,0.7931
+SEN,3,400,400,Expert (own country only),0.7828
+SEN,3,400,400,Shared model,0.794
+SEN,3,798,all,Expert (own country only),0.7976
+SEN,3,798,all,Shared model,0.7932
+SEN,4,50,50,Expert (own country only),0.679
+SEN,4,50,50,Shared model,0.8302
+SEN,4,100,100,Expert (own country only),0.7812
+SEN,4,100,100,Shared model,0.8301
+SEN,4,200,200,Expert (own country only),0.8169
+SEN,4,200,200,Shared model,0.8304
+SEN,4,400,400,Expert (own country only),0.8154
+SEN,4,400,400,Shared model,0.8298
+SEN,4,798,all,Expert (own country only),0.8174
+SEN,4,798,all,Shared model,0.8301
+SLE,0,50,50,Expert (own country only),0.8316
+SLE,0,50,50,Shared model,0.8255
+SLE,0,100,100,Expert (own country only),0.85
+SLE,0,100,100,Shared model,0.8255
+SLE,0,200,200,Expert (own country only),0.8105
+SLE,0,200,200,Shared model,0.8256
+SLE,0,400,400,Expert (own country only),0.8271
+SLE,0,400,400,Shared model,0.8253
+SLE,0,799,all,Expert (own country only),0.8279
+SLE,0,799,all,Shared model,0.8255
+SLE,1,50,50,Expert (own country only),0.7936
+SLE,1,50,50,Shared model,0.7865
+SLE,1,100,100,Expert (own country only),0.791
+SLE,1,100,100,Shared model,0.7865
+SLE,1,200,200,Expert (own country only),0.7753
+SLE,1,200,200,Shared model,0.7864
+SLE,1,400,400,Expert (own country only),0.7835
+SLE,1,400,400,Shared model,0.7867
+SLE,1,799,all,Expert (own country only),0.7777
+SLE,1,799,all,Shared model,0.7862
+SLE,2,50,50,Expert (own country only),0.7656
+SLE,2,50,50,Shared model,0.795
+SLE,2,100,100,Expert (own country only),0.7853
+SLE,2,100,100,Shared model,0.795
+SLE,2,200,200,Expert (own country only),0.748
+SLE,2,200,200,Shared model,0.795
+SLE,2,400,400,Expert (own country only),0.7769
+SLE,2,400,400,Shared model,0.795
+SLE,2,799,all,Expert (own country only),0.7848
+SLE,2,799,all,Shared model,0.7946
+SLE,3,50,50,Expert (own country only),0.6859
+SLE,3,50,50,Shared model,0.7818
+SLE,3,100,100,Expert (own country only),0.7554
+SLE,3,100,100,Shared model,0.7818
+SLE,3,200,200,Expert (own country only),0.7246
+SLE,3,200,200,Shared model,0.7813
+SLE,3,400,400,Expert (own country only),0.7503
+SLE,3,400,400,Shared model,0.7818
+SLE,3,799,all,Expert (own country only),0.7526
+SLE,3,799,all,Shared model,0.7813
+SLE,4,50,50,Expert (own country only),0.7511
+SLE,4,50,50,Shared model,0.8565
+SLE,4,100,100,Expert (own country only),0.7846
+SLE,4,100,100,Shared model,0.8562
+SLE,4,200,200,Expert (own country only),0.8378
+SLE,4,200,200,Shared model,0.8563
+SLE,4,400,400,Expert (own country only),0.8394
+SLE,4,400,400,Shared model,0.856
+SLE,4,800,all,Expert (own country only),0.8466
+SLE,4,800,all,Shared model,0.8563
+SWZ,0,50,50,Expert (own country only),0.6458
+SWZ,0,50,50,Shared model,0.6799
+SWZ,0,100,100,Expert (own country only),0.6343
+SWZ,0,100,100,Shared model,0.6799
+SWZ,0,200,200,Expert (own country only),0.6796
+SWZ,0,200,200,Shared model,0.68
+SWZ,0,400,400,Expert (own country only),0.6902
+SWZ,0,400,400,Shared model,0.6802
+SWZ,0,825,all,Expert (own country only),0.6884
+SWZ,0,825,all,Shared model,0.6809
+SWZ,1,50,50,Expert (own country only),0.6009
+SWZ,1,50,50,Shared model,0.7257
+SWZ,1,100,100,Expert (own country only),0.6613
+SWZ,1,100,100,Shared model,0.7258
+SWZ,1,200,200,Expert (own country only),0.7283
+SWZ,1,200,200,Shared model,0.7258
+SWZ,1,400,400,Expert (own country only),0.753
+SWZ,1,400,400,Shared model,0.7264
+SWZ,1,825,all,Expert (own country only),0.7561
+SWZ,1,825,all,Shared model,0.7274
+SWZ,2,50,50,Expert (own country only),0.696
+SWZ,2,50,50,Shared model,0.6657
+SWZ,2,100,100,Expert (own country only),0.6667
+SWZ,2,100,100,Shared model,0.6658
+SWZ,2,200,200,Expert (own country only),0.6707
+SWZ,2,200,200,Shared model,0.6658
+SWZ,2,400,400,Expert (own country only),0.6682
+SWZ,2,400,400,Shared model,0.6658
+SWZ,2,826,all,Expert (own country only),0.6921
+SWZ,2,826,all,Shared model,0.6669
+SWZ,3,50,50,Expert (own country only),0.4097
+SWZ,3,50,50,Shared model,0.7364
+SWZ,3,100,100,Expert (own country only),0.7037
+SWZ,3,100,100,Shared model,0.7366
+SWZ,3,200,200,Expert (own country only),0.7218
+SWZ,3,200,200,Shared model,0.7368
+SWZ,3,400,400,Expert (own country only),0.7225
+SWZ,3,400,400,Shared model,0.7362
+SWZ,3,826,all,Expert (own country only),0.7228
+SWZ,3,826,all,Shared model,0.7354
+SWZ,4,50,50,Expert (own country only),0.7936
+SWZ,4,50,50,Shared model,0.7947
+SWZ,4,100,100,Expert (own country only),0.7519
+SWZ,4,100,100,Shared model,0.795
+SWZ,4,200,200,Expert (own country only),0.7995
+SWZ,4,200,200,Shared model,0.7951
+SWZ,4,400,400,Expert (own country only),0.7797
+SWZ,4,400,400,Shared model,0.795
+SWZ,4,826,all,Expert (own country only),0.8023
+SWZ,4,826,all,Shared model,0.7962
+TCD,0,50,50,Expert (own country only),0.7658
+TCD,0,50,50,Shared model,0.7679
+TCD,0,100,100,Expert (own country only),0.7715
+TCD,0,100,100,Shared model,0.7678
+TCD,0,200,200,Expert (own country only),0.6854
+TCD,0,200,200,Shared model,0.7675
+TCD,0,400,400,Expert (own country only),0.7134
+TCD,0,400,400,Shared model,0.7676
+TCD,0,790,all,Expert (own country only),0.7121
+TCD,0,790,all,Shared model,0.7673
+TCD,1,50,50,Expert (own country only),0.7122
+TCD,1,50,50,Shared model,0.6845
+TCD,1,100,100,Expert (own country only),0.6542
+TCD,1,100,100,Shared model,0.6848
+TCD,1,200,200,Expert (own country only),0.6456
+TCD,1,200,200,Shared model,0.6845
+TCD,1,400,400,Expert (own country only),0.7225
+TCD,1,400,400,Shared model,0.685
+TCD,1,790,all,Expert (own country only),0.7466
+TCD,1,790,all,Shared model,0.6853
+TCD,2,50,50,Expert (own country only),0.7179
+TCD,2,50,50,Shared model,0.7592
+TCD,2,100,100,Expert (own country only),0.5689
+TCD,2,100,100,Shared model,0.7587
+TCD,2,200,200,Expert (own country only),0.7716
+TCD,2,200,200,Shared model,0.7587
+TCD,2,400,400,Expert (own country only),0.7749
+TCD,2,400,400,Shared model,0.7597
+TCD,2,790,all,Expert (own country only),0.7697
+TCD,2,790,all,Shared model,0.7604
+TCD,3,50,50,Expert (own country only),0.7234
+TCD,3,50,50,Shared model,0.7286
+TCD,3,100,100,Expert (own country only),0.6619
+TCD,3,100,100,Shared model,0.7286
+TCD,3,200,200,Expert (own country only),0.7127
+TCD,3,200,200,Shared model,0.7286
+TCD,3,400,400,Expert (own country only),0.7159
+TCD,3,400,400,Shared model,0.7281
+TCD,3,791,all,Expert (own country only),0.7443
+TCD,3,791,all,Shared model,0.7287
+TCD,4,50,50,Expert (own country only),0.6292
+TCD,4,50,50,Shared model,0.6193
+TCD,4,100,100,Expert (own country only),0.6415
+TCD,4,100,100,Shared model,0.6194
+TCD,4,200,200,Expert (own country only),0.6573
+TCD,4,200,200,Shared model,0.6196
+TCD,4,400,400,Expert (own country only),0.6389
+TCD,4,400,400,Shared model,0.6194
+TCD,4,791,all,Expert (own country only),0.6595
+TCD,4,791,all,Shared model,0.6203
+TGO,0,50,50,Expert (own country only),0.7857
+TGO,0,50,50,Shared model,0.8114
+TGO,0,100,100,Expert (own country only),0.7664
+TGO,0,100,100,Shared model,0.8114
+TGO,0,200,200,Expert (own country only),0.7567
+TGO,0,200,200,Shared model,0.8115
+TGO,0,400,400,Expert (own country only),0.7925
+TGO,0,400,400,Shared model,0.8117
+TGO,0,795,all,Expert (own country only),0.7974
+TGO,0,795,all,Shared model,0.8114
+TGO,1,50,50,Expert (own country only),0.7366
+TGO,1,50,50,Shared model,0.7351
+TGO,1,100,100,Expert (own country only),0.7124
+TGO,1,100,100,Shared model,0.7353
+TGO,1,200,200,Expert (own country only),0.7277
+TGO,1,200,200,Shared model,0.735
+TGO,1,400,400,Expert (own country only),0.7416
+TGO,1,400,400,Shared model,0.7355
+TGO,1,795,all,Expert (own country only),0.7387
+TGO,1,795,all,Shared model,0.7351
+TGO,2,50,50,Expert (own country only),0.6753
+TGO,2,50,50,Shared model,0.6916
+TGO,2,100,100,Expert (own country only),0.6651
+TGO,2,100,100,Shared model,0.6918
+TGO,2,200,200,Expert (own country only),0.6905
+TGO,2,200,200,Shared model,0.692
+TGO,2,400,400,Expert (own country only),0.7029
+TGO,2,400,400,Shared model,0.6918
+TGO,2,795,all,Expert (own country only),0.6999
+TGO,2,795,all,Shared model,0.6918
+TGO,3,50,50,Expert (own country only),0.7548
+TGO,3,50,50,Shared model,0.7755
+TGO,3,100,100,Expert (own country only),0.7601
+TGO,3,100,100,Shared model,0.7756
+TGO,3,200,200,Expert (own country only),0.7702
+TGO,3,200,200,Shared model,0.7758
+TGO,3,400,400,Expert (own country only),0.7763
+TGO,3,400,400,Shared model,0.7763
+TGO,3,795,all,Expert (own country only),0.7842
+TGO,3,795,all,Shared model,0.7768
+TGO,4,50,50,Expert (own country only),0.7102
+TGO,4,50,50,Shared model,0.7809
+TGO,4,100,100,Expert (own country only),0.724
+TGO,4,100,100,Shared model,0.7811
+TGO,4,200,200,Expert (own country only),0.7333
+TGO,4,200,200,Shared model,0.7813
+TGO,4,400,400,Expert (own country only),0.774
+TGO,4,400,400,Shared model,0.7814
+TGO,4,796,all,Expert (own country only),0.7841
+TGO,4,796,all,Shared model,0.7815
+TZA,0,50,50,Expert (own country only),0.8562
+TZA,0,50,50,Shared model,0.863
+TZA,0,100,100,Expert (own country only),0.847
+TZA,0,100,100,Shared model,0.8632
+TZA,0,200,200,Expert (own country only),0.86
+TZA,0,200,200,Shared model,0.8631
+TZA,0,400,400,Expert (own country only),0.8537
+TZA,0,400,400,Shared model,0.8628
+TZA,0,800,all,Expert (own country only),0.8589
+TZA,0,800,all,Shared model,0.8628
+TZA,1,50,50,Expert (own country only),0.6556
+TZA,1,50,50,Shared model,0.8039
+TZA,1,100,100,Expert (own country only),0.7738
+TZA,1,100,100,Shared model,0.8036
+TZA,1,200,200,Expert (own country only),0.7951
+TZA,1,200,200,Shared model,0.8039
+TZA,1,400,400,Expert (own country only),0.7949
+TZA,1,400,400,Shared model,0.8043
+TZA,1,800,all,Expert (own country only),0.7906
+TZA,1,800,all,Shared model,0.8043
+TZA,2,50,50,Expert (own country only),0.737
+TZA,2,50,50,Shared model,0.7747
+TZA,2,100,100,Expert (own country only),0.7142
+TZA,2,100,100,Shared model,0.7747
+TZA,2,200,200,Expert (own country only),0.7678
+TZA,2,200,200,Shared model,0.775
+TZA,2,400,400,Expert (own country only),0.7535
+TZA,2,400,400,Shared model,0.775
+TZA,2,800,all,Expert (own country only),0.7735
+TZA,2,800,all,Shared model,0.7746
+TZA,3,50,50,Expert (own country only),0.8358
+TZA,3,50,50,Shared model,0.85
+TZA,3,100,100,Expert (own country only),0.8255
+TZA,3,100,100,Shared model,0.8498
+TZA,3,200,200,Expert (own country only),0.8387
+TZA,3,200,200,Shared model,0.85
+TZA,3,400,400,Expert (own country only),0.8265
+TZA,3,400,400,Shared model,0.8495
+TZA,3,800,all,Expert (own country only),0.8472
+TZA,3,800,all,Shared model,0.8494
+TZA,4,50,50,Expert (own country only),0.7681
+TZA,4,50,50,Shared model,0.7916
+TZA,4,100,100,Expert (own country only),0.7851
+TZA,4,100,100,Shared model,0.7913
+TZA,4,200,200,Expert (own country only),0.7872
+TZA,4,200,200,Shared model,0.791
+TZA,4,400,400,Expert (own country only),0.7938
+TZA,4,400,400,Shared model,0.7916
+TZA,4,800,all,Expert (own country only),0.8017
+TZA,4,800,all,Shared model,0.7924
+UGA,0,50,50,Expert (own country only),0.7517
+UGA,0,50,50,Shared model,0.8393
+UGA,0,100,100,Expert (own country only),0.8172
+UGA,0,100,100,Shared model,0.8389
+UGA,0,200,200,Expert (own country only),0.8084
+UGA,0,200,200,Shared model,0.8392
+UGA,0,400,400,Expert (own country only),0.8225
+UGA,0,400,400,Shared model,0.839
+UGA,0,795,all,Expert (own country only),0.8299
+UGA,0,795,all,Shared model,0.8387
+UGA,1,50,50,Expert (own country only),0.801
+UGA,1,50,50,Shared model,0.8345
+UGA,1,100,100,Expert (own country only),0.7587
+UGA,1,100,100,Shared model,0.8345
+UGA,1,200,200,Expert (own country only),0.8468
+UGA,1,200,200,Shared model,0.8345
+UGA,1,400,400,Expert (own country only),0.8255
+UGA,1,400,400,Shared model,0.8342
+UGA,1,795,all,Expert (own country only),0.8306
+UGA,1,795,all,Shared model,0.8343
+UGA,2,50,50,Expert (own country only),0.7734
+UGA,2,50,50,Shared model,0.8198
+UGA,2,100,100,Expert (own country only),0.7538
+UGA,2,100,100,Shared model,0.8198
+UGA,2,200,200,Expert (own country only),0.8012
+UGA,2,200,200,Shared model,0.8199
+UGA,2,400,400,Expert (own country only),0.8223
+UGA,2,400,400,Shared model,0.8203
+UGA,2,795,all,Expert (own country only),0.8223
+UGA,2,795,all,Shared model,0.8203
+UGA,3,50,50,Expert (own country only),0.7531
+UGA,3,50,50,Shared model,0.7945
+UGA,3,100,100,Expert (own country only),0.7515
+UGA,3,100,100,Shared model,0.7944
+UGA,3,200,200,Expert (own country only),0.7931
+UGA,3,200,200,Shared model,0.7945
+UGA,3,400,400,Expert (own country only),0.7835
+UGA,3,400,400,Shared model,0.7944
+UGA,3,795,all,Expert (own country only),0.7865
+UGA,3,795,all,Shared model,0.7944
+UGA,4,50,50,Expert (own country only),0.7216
+UGA,4,50,50,Shared model,0.7977
+UGA,4,100,100,Expert (own country only),0.7841
+UGA,4,100,100,Shared model,0.7979
+UGA,4,200,200,Expert (own country only),0.7742
+UGA,4,200,200,Shared model,0.798
+UGA,4,400,400,Expert (own country only),0.7898
+UGA,4,400,400,Shared model,0.798
+UGA,4,796,all,Expert (own country only),0.7905
+UGA,4,796,all,Shared model,0.7979
+ZAF,0,50,50,Expert (own country only),0.5828
+ZAF,0,50,50,Shared model,0.7455
+ZAF,0,100,100,Expert (own country only),0.6893
+ZAF,0,100,100,Shared model,0.7453
+ZAF,0,200,200,Expert (own country only),0.6833
+ZAF,0,200,200,Shared model,0.7454
+ZAF,0,400,400,Expert (own country only),0.7424
+ZAF,0,400,400,Shared model,0.7455
+ZAF,0,766,all,Expert (own country only),0.7307
+ZAF,0,766,all,Shared model,0.7448
+ZAF,1,50,50,Expert (own country only),0.8131
+ZAF,1,50,50,Shared model,0.8198
+ZAF,1,100,100,Expert (own country only),0.7423
+ZAF,1,100,100,Shared model,0.8198
+ZAF,1,200,200,Expert (own country only),0.8021
+ZAF,1,200,200,Shared model,0.8202
+ZAF,1,400,400,Expert (own country only),0.814
+ZAF,1,400,400,Shared model,0.8201
+ZAF,1,766,all,Expert (own country only),0.8197
+ZAF,1,766,all,Shared model,0.8199
+ZAF,2,50,50,Expert (own country only),0.6843
+ZAF,2,50,50,Shared model,0.757
+ZAF,2,100,100,Expert (own country only),0.7235
+ZAF,2,100,100,Shared model,0.7569
+ZAF,2,200,200,Expert (own country only),0.7556
+ZAF,2,200,200,Shared model,0.757
+ZAF,2,400,400,Expert (own country only),0.7595
+ZAF,2,400,400,Shared model,0.7568
+ZAF,2,766,all,Expert (own country only),0.768
+ZAF,2,766,all,Shared model,0.757
+ZAF,3,50,50,Expert (own country only),0.7384
+ZAF,3,50,50,Shared model,0.7282
+ZAF,3,100,100,Expert (own country only),0.7418
+ZAF,3,100,100,Shared model,0.7283
+ZAF,3,200,200,Expert (own country only),0.7452
+ZAF,3,200,200,Shared model,0.7283
+ZAF,3,400,400,Expert (own country only),0.7347
+ZAF,3,400,400,Shared model,0.7283
+ZAF,3,767,all,Expert (own country only),0.7348
+ZAF,3,767,all,Shared model,0.7282
+ZAF,4,50,50,Expert (own country only),0.7585
+ZAF,4,50,50,Shared model,0.7508
+ZAF,4,100,100,Expert (own country only),0.7124
+ZAF,4,100,100,Shared model,0.751
+ZAF,4,200,200,Expert (own country only),0.7565
+ZAF,4,200,200,Shared model,0.751
+ZAF,4,400,400,Expert (own country only),0.7564
+ZAF,4,400,400,Shared model,0.7514
+ZAF,4,767,all,Expert (own country only),0.7625
+ZAF,4,767,all,Shared model,0.7515
+ZMB,0,50,50,Expert (own country only),0.8524
+ZMB,0,50,50,Shared model,0.871
+ZMB,0,100,100,Expert (own country only),0.8269
+ZMB,0,100,100,Shared model,0.8708
+ZMB,0,200,200,Expert (own country only),0.8549
+ZMB,0,200,200,Shared model,0.8708
+ZMB,0,400,400,Expert (own country only),0.8494
+ZMB,0,400,400,Shared model,0.8708
+ZMB,0,799,all,Expert (own country only),0.8604
+ZMB,0,799,all,Shared model,0.8708
+ZMB,1,50,50,Expert (own country only),0.8089
+ZMB,1,50,50,Shared model,0.8444
+ZMB,1,100,100,Expert (own country only),0.7641
+ZMB,1,100,100,Shared model,0.8447
+ZMB,1,200,200,Expert (own country only),0.8014
+ZMB,1,200,200,Shared model,0.8447
+ZMB,1,400,400,Expert (own country only),0.8157
+ZMB,1,400,400,Shared model,0.8449
+ZMB,1,799,all,Expert (own country only),0.8268
+ZMB,1,799,all,Shared model,0.8452
+ZMB,2,50,50,Expert (own country only),0.7467
+ZMB,2,50,50,Shared model,0.782
+ZMB,2,100,100,Expert (own country only),0.7801
+ZMB,2,100,100,Shared model,0.782
+ZMB,2,200,200,Expert (own country only),0.7883
+ZMB,2,200,200,Shared model,0.782
+ZMB,2,400,400,Expert (own country only),0.7885
+ZMB,2,400,400,Shared model,0.7824
+ZMB,2,799,all,Expert (own country only),0.7789
+ZMB,2,799,all,Shared model,0.7825
+ZMB,3,50,50,Expert (own country only),0.7382
+ZMB,3,50,50,Shared model,0.8499
+ZMB,3,100,100,Expert (own country only),0.7445
+ZMB,3,100,100,Shared model,0.8504
+ZMB,3,200,200,Expert (own country only),0.8261
+ZMB,3,200,200,Shared model,0.8499
+ZMB,3,400,400,Expert (own country only),0.845
+ZMB,3,400,400,Shared model,0.8504
+ZMB,3,799,all,Expert (own country only),0.8418
+ZMB,3,799,all,Shared model,0.8501
+ZMB,4,50,50,Expert (own country only),0.8231
+ZMB,4,50,50,Shared model,0.8853
+ZMB,4,100,100,Expert (own country only),0.8666
+ZMB,4,100,100,Shared model,0.8853
+ZMB,4,200,200,Expert (own country only),0.8817
+ZMB,4,200,200,Shared model,0.8853
+ZMB,4,400,400,Expert (own country only),0.8954
+ZMB,4,400,400,Shared model,0.8851
+ZMB,4,800,all,Expert (own country only),0.8892
+ZMB,4,800,all,Shared model,0.8855
+ZWE,0,50,50,Expert (own country only),0.7118
+ZWE,0,50,50,Shared model,0.7996
+ZWE,0,100,100,Expert (own country only),0.6864
+ZWE,0,100,100,Shared model,0.7994
+ZWE,0,200,200,Expert (own country only),0.8024
+ZWE,0,200,200,Shared model,0.7994
+ZWE,0,400,400,Expert (own country only),0.7858
+ZWE,0,400,400,Shared model,0.7992
+ZWE,0,800,all,Expert (own country only),0.7956
+ZWE,0,800,all,Shared model,0.7994
+ZWE,1,50,50,Expert (own country only),0.7296
+ZWE,1,50,50,Shared model,0.8115
+ZWE,1,100,100,Expert (own country only),0.8031
+ZWE,1,100,100,Shared model,0.8117
+ZWE,1,200,200,Expert (own country only),0.7685
+ZWE,1,200,200,Shared model,0.8116
+ZWE,1,400,400,Expert (own country only),0.7956
+ZWE,1,400,400,Shared model,0.8111
+ZWE,1,800,all,Expert (own country only),0.7868
+ZWE,1,800,all,Shared model,0.8112
+ZWE,2,50,50,Expert (own country only),0.768
+ZWE,2,50,50,Shared model,0.7859
+ZWE,2,100,100,Expert (own country only),0.7827
+ZWE,2,100,100,Shared model,0.7858
+ZWE,2,200,200,Expert (own country only),0.7854
+ZWE,2,200,200,Shared model,0.786
+ZWE,2,400,400,Expert (own country only),0.7833
+ZWE,2,400,400,Shared model,0.7855
+ZWE,2,800,all,Expert (own country only),0.7857
+ZWE,2,800,all,Shared model,0.7859
+ZWE,3,50,50,Expert (own country only),0.7314
+ZWE,3,50,50,Shared model,0.7605
+ZWE,3,100,100,Expert (own country only),0.7078
+ZWE,3,100,100,Shared model,0.76
+ZWE,3,200,200,Expert (own country only),0.7595
+ZWE,3,200,200,Shared model,0.7607
+ZWE,3,400,400,Expert (own country only),0.7446
+ZWE,3,400,400,Shared model,0.76
+ZWE,3,800,all,Expert (own country only),0.7594
+ZWE,3,800,all,Shared model,0.7601
+ZWE,4,50,50,Expert (own country only),0.6883
+ZWE,4,50,50,Shared model,0.6993
+ZWE,4,100,100,Expert (own country only),0.6644
+ZWE,4,100,100,Shared model,0.7
+ZWE,4,200,200,Expert (own country only),0.683
+ZWE,4,200,200,Shared model,0.6996
+ZWE,4,400,400,Expert (own country only),0.6834
+ZWE,4,400,400,Shared model,0.6995
+ZWE,4,800,all,Expert (own country only),0.6921
+ZWE,4,800,all,Shared model,0.6999

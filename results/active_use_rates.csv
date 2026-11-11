@@ -1,0 +1,35 @@
+economy,economycode,active_use_rate_adults,dig_account_rate,active_among_owners,dormant_among_owners
+Niger,NER,0.123,0.074,0.984,0.016
+Chad,TCD,0.179,0.157,0.927,0.073
+Ethiopia,ETH,0.207,0.162,0.81,0.19
+Madagascar,MDG,0.219,0.206,0.975,0.025
+Mauritania,MRT,0.244,0.157,0.937,0.063
+Comoros,COM,0.277,0.224,0.849,0.151
+"Gambia, The",GMB,0.278,0.229,0.918,0.082
+Guinea,GIN,0.318,0.293,0.967,0.033
+Sierra Leone,SLE,0.365,0.336,0.98,0.02
+"Congo, Dem. Rep.",COD,0.371,0.358,0.981,0.019
+Zimbabwe,ZWE,0.468,0.466,0.974,0.026
+Benin,BEN,0.477,0.477,0.965,0.035
+Burkina Faso,BFA,0.482,0.449,0.996,0.004
+Malawi,MWI,0.489,0.477,0.999,0.001
+Liberia,LBR,0.502,0.483,0.992,0.008
+Mozambique,MOZ,0.506,0.497,0.978,0.022
+Mali,MLI,0.52,0.516,0.977,0.023
+Togo,TGO,0.532,0.514,0.971,0.029
+"Congo, Rep.",COG,0.542,0.53,0.99,0.01
+Nigeria,NGA,0.546,0.532,0.935,0.065
+Cote d'Ivoire,CIV,0.565,0.539,0.999,0.001
+Tanzania,TZA,0.571,0.55,0.988,0.012
+Botswana,BWA,0.573,0.568,0.959,0.041
+Cameroon,CMR,0.596,0.563,0.988,0.012
+Eswatini,SWZ,0.613,0.566,0.98,0.02
+Mauritius,MUS,0.638,0.63,1.0,0.0
+Gabon,GAB,0.668,0.634,0.997,0.003
+South Africa,ZAF,0.672,0.673,0.875,0.125
+Namibia,NAM,0.677,0.664,0.953,0.047
+Uganda,UGA,0.706,0.695,0.993,0.007
+Zambia,ZMB,0.714,0.705,0.995,0.005
+Senegal,SEN,0.736,0.737,0.97,0.03
+Ghana,GHA,0.804,0.798,1.0,0.0
+Kenya,KEN,0.893,0.894,0.995,0.005

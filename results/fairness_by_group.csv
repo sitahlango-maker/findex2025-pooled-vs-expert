@@ -1,0 +1,5 @@
+attribute,group,countries,people,mean_within_country_auc,mean_calibration_gap_pp,max_abs_calibration_gap_pp
+Gender,Women,34,17423,0.78,0.087,2.491
+Gender,Men,34,16403,0.796,-0.038,1.825
+Residence,Rural,34,22726,0.794,0.031,1.5
+Residence,Urban,33,11100,0.78,-0.015,3.818

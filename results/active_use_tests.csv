@@ -1,0 +1,9 @@
+version,strategy,vs,mean_auc_difference,ci95_low,ci95_high,countries_better,countries_worse,wilcoxon_p
+A_all_adults,LR_pooled,XGB_pooled,-0.0032,-0.0061,-0.0005,12,22,0.0643
+A_all_adults,LR_partial,XGB_pooled,-0.0016,-0.0037,0.0004,13,21,0.1338
+A_all_adults,LR_expert,XGB_pooled,-0.0038,-0.0061,-0.0017,9,25,0.0025
+A_all_adults,XGB_expert,XGB_pooled,-0.0143,-0.0164,-0.0121,1,33,0.0
+B_account_owners,LR_pooled,XGB_pooled,0.0394,0.0179,0.0608,5,0,0.0625
+B_account_owners,LR_partial,XGB_pooled,0.0245,0.0038,0.0427,4,1,0.125
+B_account_owners,LR_expert,XGB_pooled,0.0102,-0.0039,0.0278,3,2,0.625
+B_account_owners,XGB_expert,XGB_pooled,-0.0143,-0.0334,-0.0031,0,5,0.0625

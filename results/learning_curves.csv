@@ -1,0 +1,11 @@
+strategy,size_label,mean_auc,mean_n,mean_gap,share_expert_wins
+Expert (own country only),50,0.7367,50.0,-0.0571,0.1118
+Shared model,50,0.7938,50.0,-0.0571,0.1118
+Expert (own country only),100,0.7603,100.0,-0.0335,0.1471
+Shared model,100,0.7938,100.0,-0.0335,0.1471
+Expert (own country only),200,0.7774,200.0,-0.0164,0.2471
+Shared model,200,0.7939,200.0,-0.0164,0.2471
+Expert (own country only),400,0.7886,400.0,-0.0053,0.3235
+Shared model,400,0.7939,400.0,-0.0053,0.3235
+Expert (own country only),all,0.7934,795.9059,-0.0006,0.4706
+Shared model,all,0.794,795.9059,-0.0006,0.4706

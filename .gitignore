@@ -1,0 +1,14 @@
+# Private survey data: never commit (World Bank terms forbid redistribution)
+data/
+*.dta
+*.sav
+findex_microdata*
+*microdata*.csv
+oof_predictions.csv
+ssa_2025_clean.csv
+
+# Python and environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

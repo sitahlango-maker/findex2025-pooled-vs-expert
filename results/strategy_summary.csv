@@ -1,0 +1,6 @@
+strategy,mean_auc,median_auc,mean_brier,countries_best,pooled_overall_auc
+LR_pooled,0.7935,0.7936,0.1569,10,0.8502
+XGB_pooled,0.7954,0.8012,0.1544,17,0.8546
+LR_partial,0.7939,0.7956,0.1558,5,0.8523
+LR_expert,0.7908,0.7925,0.1566,2,0.8508
+XGB_expert,0.7799,0.7827,0.1611,0,0.8436

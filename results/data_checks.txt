@@ -1,0 +1,18 @@
+All economies: 144,090 rows, 140 economies
+Sub-Saharan Africa: 35,093 rows, 35 economies
+
+Missing share by variable (SSA):
+  female            0.0%
+  age               0.0%
+  educ              0.6%
+  inc_q             2.9%
+  urbanicity        0.0%
+  emp_in            0.0%
+  internet_use      0.0%
+  has_phone         0.1%
+  has_smartphone    0.2%
+  dig_account       0.0%
+
+After dropping rows with missing values: 33,826 rows (96.4% kept)
+Code checks: all variables within expected codes
+Account rate rural (1): 49.6%, urban (2): 64.2%

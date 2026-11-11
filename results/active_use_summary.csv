@@ -1,0 +1,11 @@
+strategy,version,people,countries_scored,mean_auc,countries_best,pooled_overall_auc
+LR_pooled,A_all_adults,33826,34,0.7981,9,0.8452
+XGB_pooled,A_all_adults,33826,34,0.8013,15,0.8505
+LR_partial,A_all_adults,33826,34,0.7997,6,0.8481
+LR_expert,A_all_adults,33826,34,0.7975,3,0.847
+XGB_expert,A_all_adults,33826,34,0.787,1,0.8402
+LR_pooled,B_account_owners,18406,5,0.7111,4,0.8553
+XGB_pooled,B_account_owners,18406,5,0.6717,0,0.8333
+LR_partial,B_account_owners,18406,5,0.6962,1,0.8524
+LR_expert,B_account_owners,18406,5,0.682,0,0.8129
+XGB_expert,B_account_owners,18406,5,0.6574,0,0.8165
