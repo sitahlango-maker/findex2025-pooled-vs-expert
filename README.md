@@ -34,8 +34,9 @@ python3 curves_fairness.py
 # 5. Robustness check: active use instead of ownership
 python3 active_use.py --raw findex_microdata_2025_labelled_update112425.csv
 
-# Optional: inspect the partial-pooling penalty and draw the Africa maps
+# Optional: inspect the partial-pooling penalty, test stronger penalties and draw the Africa maps
 python3 check_partial.py
+python3 penalty_check.py
 python3 africa_maps.py
 ```
 
@@ -52,6 +53,7 @@ All files are aggregated (country level or above).
 | `fairness_by_group.csv` | AUC and calibration by gender and residence |
 | `market_insights.csv`, `market_types.csv` | Market estimates and the four market types |
 | `active_use_*.csv` | Robustness check on active digital use |
+| `penalty_check.csv` | Robustness check with stronger partial-pooling penalties |
 | `*.png` | Figures used in the paper |
 
 ## Citation
